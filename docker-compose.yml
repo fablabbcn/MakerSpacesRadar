@@ -1,0 +1,14 @@
+version: '2.0'
+
+services:
+
+  # --- FRONT-END ---
+
+  # Static homepage
+  homepage:
+    container_name: "MakerSpacesRadar-home"
+    build:
+      context: ./
+      dockerfile: Dockerfile-homepage
+    ports:
+      - 80:80
