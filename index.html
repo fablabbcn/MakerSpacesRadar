@@ -67,11 +67,11 @@
                 </p>
             </div>
             <div class="col-xs-4">
-                <div id="tester0"></div>
+                <div id="plotlyVis0"></div>
             </div>
             <div class="col-xs-1"></div>
         </div>
-
+        <!-- First row of charts -->
         <div class="row">
             <div class="col-xs-12 col-sm-4">
                 <div class="navigate-content" go-to-route="route: trends">
@@ -84,7 +84,7 @@
                         A list of the current
                         <em>Trends</em> in technologies used by and affecting the Maker movement.
                     </p>
-                    <div id="tester1"></div>
+                    <div id="plotlyVis1"></div>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
@@ -98,7 +98,7 @@
                         A list of the current
                         <em>Platforms</em> available for Maker initiatives to use for their projects.
                     </p>
-                    <div id="tester2"></div>
+                    <div id="plotlyVis2"></div>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
@@ -113,7 +113,70 @@
                         <em>Trends</em> and
                         <em>Platforms</em> are connected and related to each other, and more.
                     </p>
-                    <div id="tester3"></div>
+                    <div id="plotlyVis3"></div>
+                </div>
+            </div>
+        </div>
+        <!-- Second row of charts -->
+        <div class="row">
+            <div class="col-xs-12 col-sm-4">
+                <div class="navigate-content" go-to-route="route: trends">
+                    <div class="rounded-separator-h1-top"></div>
+                    <h1>
+                        <i class="fa fa-globe" aria-hidden="true"></i> Continent
+                    </h1>
+                    <div class="rounded-separator-h1-bottom"></div>
+                    <p>
+                        A list of the current
+                        <em>Trends</em> in technologies used by and affecting the Maker movement.
+                    </p>
+                    <div id="plotlyVis4"></div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="navigate-content" go-to-route="route: platforms-page">
+                    <div class="rounded-separator-h1-top"></div>
+                    <h1>
+                        <i class="fa fa-map" aria-hidden="true"></i></i> Country
+                    </h1>
+                    <div class="rounded-separator-h1-bottom"></div>
+                    <p>
+                        A list of the current
+                        <em>Platforms</em> available for Maker initiatives to use for their projects.
+                    </p>
+                    <div id="plotlyVis5"></div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="navigate-content" go-to-route="route: MakerSpacesRadar">
+                    <div class="rounded-separator-h1-top"></div>
+                    <h1>
+                        <i class="fa fa-building" aria-hidden="true"></i> City
+                    </h1>
+                    <div class="rounded-separator-h1-bottom"></div>
+                    <p>
+                        Explore how
+                        <em>Trends</em> and
+                        <em>Platforms</em> are connected and related to each other, and more.
+                    </p>
+                    <div id="plotlyVis6"></div>
+                </div>
+            </div>
+        </div>
+        <!-- Third row of charts -->
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="navigate-content" go-to-route="route: trends">
+                    <div class="rounded-separator-h1-top"></div>
+                    <h1>
+                        <i class="fa fa-map-o" aria-hidden="true"></i> Browse the map
+                    </h1>
+                    <div class="rounded-separator-h1-bottom"></div>
+                    <p>
+                        A list of the current
+                        <em>Trends</em> in technologies used by and affecting the Maker movement.
+                    </p>
+                    <div id="plotlyVis7"></div>
                 </div>
             </div>
         </div>
@@ -135,11 +198,16 @@
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <!-- Plotly plotting-->
     <script>
-        TESTER0 = document.getElementById('tester0');
-        TESTER1 = document.getElementById('tester1');
-        TESTER2 = document.getElementById('tester2');
-        TESTER3 = document.getElementById('tester3');
-        Plotly.plot(TESTER0, [{
+        PLOTLYVIS0 = document.getElementById('plotlyVis0');
+        PLOTLYVIS1 = document.getElementById('plotlyVis1');
+        PLOTLYVIS2 = document.getElementById('plotlyVis2');
+        PLOTLYVIS3 = document.getElementById('plotlyVis3');
+        PLOTLYVIS4 = document.getElementById('plotlyVis4');
+        PLOTLYVIS5 = document.getElementById('plotlyVis5');
+        PLOTLYVIS6 = document.getElementById('plotlyVis6');
+        PLOTLYVIS7 = document.getElementById('plotlyVis7');
+        
+        Plotly.plot(PLOTLYVIS0, [{
             x: ['Fab Labs', 'Hackerspaces', 'DIYBio'],
             y: [20, 14, 23],
             type: 'bar'
@@ -148,7 +216,34 @@
                 t: 0
             }
         });
-        Plotly.plot(TESTER1, [{
+        Plotly.plot(PLOTLYVIS1, [{
+            x: ['Fab Labs', 'Hackerspaces', 'DIYBio'],
+            y: [20, 14, 23],
+            type: 'bar'
+        }], {
+            margin: {
+                t: 0
+            }
+        });
+        Plotly.plot(PLOTLYVIS2, [{
+            x: ['Fab Labs', 'Hackerspaces', 'DIYBio'],
+            y: [20, 14, 23],
+            type: 'bar'
+        }], {
+            margin: {
+                t: 0
+            }
+        });
+        Plotly.plot(PLOTLYVIS3, [{
+            x: ['Fab Labs', 'Hackerspaces', 'DIYBio'],
+            y: [20, 14, 23],
+            type: 'bar'
+        }], {
+            margin: {
+                t: 0
+            }
+        });
+        Plotly.plot(PLOTLYVIS4, [{
             x: [1, 2, 3, 4, 5],
             y: [1, 2, 4, 8, 16]
         }], {
@@ -156,7 +251,7 @@
                 t: 0
             }
         });
-        Plotly.plot(TESTER2, [{
+        Plotly.plot(PLOTLYVIS5, [{
             x: [1, 2, 3, 4, 5],
             y: [1, 2, 4, 8, 16]
         }], {
@@ -164,7 +259,15 @@
                 t: 0
             }
         });
-        Plotly.plot(TESTER3, [{
+        Plotly.plot(PLOTLYVIS6, [{
+            x: [1, 2, 3, 4, 5],
+            y: [1, 2, 4, 8, 16]
+        }], {
+            margin: {
+                t: 0
+            }
+        });
+        Plotly.plot(PLOTLYVIS7, [{
             x: [1, 2, 3, 4, 5],
             y: [1, 2, 4, 8, 16]
         }], {
