@@ -46,6 +46,9 @@ Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_wor
             projection: {
                 type: 'mercator'
             }
+        },
+        font: {
+            family: 'Fira Sans, sans-serif'
         }
     };
     Plotly.plot(PLOTLYVIS7, data, layout, {

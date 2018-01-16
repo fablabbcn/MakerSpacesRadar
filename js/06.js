@@ -7,5 +7,8 @@ Plotly.plot(PLOTLYVIS6, [{
 }], {
     margin: {
         t: 0
+    },
+    font: {
+        family: 'Fira Sans, sans-serif'
     }
 });
