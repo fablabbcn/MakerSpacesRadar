@@ -55,15 +55,20 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xs-3"></div>
+            <div class="col-xs-1"></div>
             <div class="col-xs-2">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consectetur leo urna, vitae efficitur velit suscipit at. Donec vulputate at odio eu ultricies. Vestibulum quis tincidunt justo, sed lacinia lorem. Fusce eu risus non purus semper vehicula.
+                    How can <strong>Maker communities</strong> achieve sustainability and organize themselves? What do Maker participants do, and how do they behave? What value do they create, and how does this benefit society? How can we help their <em>governance</em>, their <em>impact</em> and <em>sustainability</em>?
                 </p>
             </div>
-            <div class="col-xs-2">
+            <div class="col-xs-2 home-col">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consectetur leo urna, vitae efficitur velit suscipit at. Donec vulputate at odio eu ultricies. Vestibulum quis tincidunt justo, sed lacinia lorem. Fusce eu risus non purus semper vehicula.
+                    One way for addressing this is also by exploring the spaces where makers gather and work: How many <strong>Fab Labs</strong>, <strong>Hackerspaces</strong>, <strong>DIY Bio labs</strong> are there? Where are they? This <em>dashboard</em> visualizes data about them in order to provide a first map, or rather <em>a radar</em>, for discovering the <strong>Maker movement</strong>.
+                </p>
+            </div>
+            <div class="col-xs-2 home-col">
+                <p>
+                    Data was gathered from <a href="https://www.fablabs.io/">Fablabs.io</a>, <a href="http://hackerspaces.org/">Hackerspaces.org</a> and <a href="https://diybio.org/">DIYbio.org</a> with the help of the <a href="https://github.com/openp2pdesign/makerlabs">makerlabs</a> Python module, a library for accessing online data about Makerspaces, Fab Labs, Hackerspaces, TechShop... and for formatting the data in order to give a unified API for understanding <strong>Maker platforms</strong>.
                 </p>
             </div>
             <div class="col-xs-4">
@@ -206,7 +211,7 @@
         PLOTLYVIS5 = document.getElementById('plotlyVis5');
         PLOTLYVIS6 = document.getElementById('plotlyVis6');
         PLOTLYVIS7 = document.getElementById('plotlyVis7');
-        
+
         Plotly.plot(PLOTLYVIS0, [{
             x: ['Fab Labs', 'Hackerspaces', 'DIYBio'],
             y: [20, 14, 23],

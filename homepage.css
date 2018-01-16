@@ -800,6 +800,9 @@ textarea
     margin-top: 100px;
 }
 
+.home-col {
+    text-align: justify;
+}
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1920px) {
