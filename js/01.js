@@ -1,5 +1,3 @@
-PLOTLYVIS1 = document.getElementById('plotlyVis1');
-
 // Inspiration from:
 // https://codepen.io/etpinard/pen/VrzwyP
 // https://plot.ly/javascript/responsive-fluid-layout/
