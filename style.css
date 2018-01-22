@@ -1,0 +1,15 @@
+/*For the visualisations (svg)*/
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500');
+/*For Font Awesome*/
+@import 'node_modules/font-awesome/css/font-awesome.css';
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+/* Center the Plotly Modebar */
+
+.js-plotly-plot .plotly .modebar {
+    left: 5%;
+    transform: translateX(5%);
+}

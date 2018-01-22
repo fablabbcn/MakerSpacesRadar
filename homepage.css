@@ -804,6 +804,9 @@ textarea
     text-align: justify;
 }
 
+.plotlyVisClass {
+}
+
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1920px) {
     body {
