@@ -6,7 +6,7 @@
 (function() {
     var d3 = Plotly.d3;
 
-    var labs = ['2014', '2015', '2016'];
+    var labs = ['Fab Lab', 'Hackerspace', 'DIYBio Lab'];
 
     var layout = {
         autosize: true,
@@ -33,15 +33,15 @@
             height: '100vh'
         });
 
-    Plotly.d3.csv('https://raw.githubusercontent.com/apodagrosi/datasets/master/PlotlyTest_Summary_SalesByDealerByYear.csv', (err, rows) => {
+    Plotly.d3.csv('../data/00.csv', (err, rows) => {
         var data = labs.map(y => {
-            var d = rows.filter(r => r.year === y)
+            var d = rows.filter(r => r.lab_type === y)
 
             return {
                 type: 'bar',
                 name: y,
-                x: d.map(r => r.dealer),
-                y: d.map(r => r.sales)
+                x: d.map(r => r.cluster),
+                y: d.map(r => r.count)
             }
         })
 
@@ -49,6 +49,7 @@
             displaylogo: false
         })
     });
+
 
 
     window.onresize = function() {

@@ -6,7 +6,7 @@
 (function() {
     var d3 = Plotly.d3;
 
-    var labs = ['2014', '2015', '2016'];
+    var labs = ['Fab Lab', 'Hackerspace', 'DIYBio Lab'];
 
     var layout = {
         autosize: true,
