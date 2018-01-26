@@ -1,0 +1,258 @@
+country,lab_type,count
+Switzerland,Hackerspace,1
+Afghanistan,Fab Lab,1
+Albania,Hackerspace,2
+Antigua and Barbuda,Hackerspace,1
+Argentina,DIYBio Lab,1
+Argentina,Fab Lab,12
+Argentina,Hackerspace,18
+Armenia,Hackerspace,1
+Australia,DIYBio Lab,4
+Australia,Fab Lab,3
+Australia,Hackerspace,42
+Austria,DIYBio Lab,1
+Austria,Fab Lab,9
+Austria,Hackerspace,18
+Bahrain,Fab Lab,2
+Bahrain,Hackerspace,2
+Bangladesh,Fab Lab,1
+Bangladesh,Hackerspace,3
+Belarus,Hackerspace,3
+Belgium,DIYBio Lab,3
+Belgium,Fab Lab,19
+Belgium,Hackerspace,27
+Benin,Fab Lab,2
+Best Korea,Hackerspace,1
+"Bolivia, Plurinational State of",Fab Lab,1
+Bosnia and Herzegovina,Hackerspace,3
+Brazil,DIYBio Lab,3
+Brazil,Fab Lab,40
+Brazil,Hackerspace,73
+Bulgaria,Fab Lab,1
+Bulgaria,Hackerspace,8
+Burkina Faso,Fab Lab,2
+Cambodia,Fab Lab,1
+Cambodia,Hackerspace,3
+Cameroon,Fab Lab,1
+Cameroon,Hackerspace,1
+Canada,DIYBio Lab,5
+Canada,Fab Lab,23
+Canada,Hackerspace,75
+Catalonia,Hackerspace,9
+Chile,Fab Lab,8
+Chile,Hackerspace,6
+China,Fab Lab,21
+China,Hackerspace,29
+Colombia,Fab Lab,8
+Colombia,Hackerspace,11
+Conques bas village,Hackerspace,1
+Costa Rica,Fab Lab,3
+Costa Rica,Hackerspace,1
+Croatia,Fab Lab,1
+Croatia,Hackerspace,9
+Cyprus,Hackerspace,5
+Czech Republic,Hackerspace,8
+Czechia,DIYBio Lab,1
+Czechia,Fab Lab,3
+Côte d'Ivoire,Fab Lab,3
+Democratic Republic of Congo,Hackerspace,1
+Denmark,DIYBio Lab,1
+Denmark,Fab Lab,7
+Denmark,Hackerspace,16
+Dominican Republic,Hackerspace,2
+Ecuador,Fab Lab,6
+Ecuador,Hackerspace,3
+Egypt,Fab Lab,9
+Egypt,Hackerspace,10
+El Salvador,Fab Lab,1
+El Salvador,Hackerspace,1
+Estonia,Hackerspace,7
+Ethiopia,Fab Lab,1
+Ethiopia,Hackerspace,1
+Finland,Fab Lab,5
+Finland,Hackerspace,17
+France,DIYBio Lab,2
+France,Fab Lab,154
+France,Hackerspace,88
+French Guiana,Fab Lab,1
+French West Indies,Hackerspace,1
+Ghana,Hackerspace,1
+Georgia,Fab Lab,25
+Georgia,Hackerspace,1
+Germany,DIYBio Lab,5
+Germany,Fab Lab,47
+Germany,Hackerspace,204
+Ghana,Fab Lab,1
+Greece,Fab Lab,3
+Greece,Hackerspace,16
+Guadeloupe,Fab Lab,1
+Guatemala,Fab Lab,1
+Guatemala,Hackerspace,4
+Hong Kong,Fab Lab,1
+Hong Kong,Hackerspace,4
+Hungary,DIYBio Lab,1
+Hungary,Fab Lab,1
+Hungary,Hackerspace,7
+Iceland,Fab Lab,8
+Iceland,Hackerspace,1
+India,DIYBio Lab,1
+India,Fab Lab,45
+India,Hackerspace,50
+Indonesia,Fab Lab,3
+Indonesia,Hackerspace,17
+Iran,Hackerspace,4
+Iran,Fab Lab,4
+Iraq,Hackerspace,2
+Ireland,DIYBio Lab,1
+Ireland,Fab Lab,4
+Ireland,Hackerspace,16
+Israel,DIYBio Lab,2
+Israel,Fab Lab,5
+Israel,Hackerspace,3
+Italy,DIYBio Lab,2
+Italy,Fab Lab,134
+Italy,Hackerspace,35
+Ivory Coast ,Hackerspace,1
+Jamaica,Fab Lab,1
+Japan,DIYBio Lab,1
+Japan,Fab Lab,17
+Japan,Hackerspace,14
+Jordan,Fab Lab,4
+Jordan,Hackerspace,1
+Kazakhstan,Fab Lab,2
+Kenya,Fab Lab,2
+Kenya,Hackerspace,2
+Republic of Korea,Fab Lab,17
+Kosovo,Hackerspace,1
+Kuwait,Fab Lab,3
+Laos,Hackerspace,1
+Latvia,Fab Lab,2
+Latvia,Hackerspace,2
+Lebanon,Fab Lab,2
+Lebanon,Hackerspace,3
+Lithuania,Fab Lab,2
+Lithuania,Hackerspace,5
+Luxembourg,Fab Lab,2
+Luxembourg,Hackerspace,2
+Macao,Fab Lab,1
+Macedonia,Hackerspace,1
+Malaysia,Fab Lab,1
+Malaysia,Hackerspace,9
+Mali,Fab Lab,2
+Malta,Fab Lab,1
+Malta,Hackerspace,1
+Mexico,DIYBio Lab,1
+Mexico,Fab Lab,15
+Mexico,Hackerspace,33
+Montenegro,Fab Lab,1
+Morocco,Fab Lab,6
+Morocco,Hackerspace,6
+Myanmar,Fab Lab,1
+Myanmar,Hackerspace,1
+Namibia,Fab Lab,1
+Namibia,Hackerspace,1
+Nepal,Hackerspace,3
+Netherlands,Fab Lab,32
+Netherlands,Hackerspace,42
+New Zealand,DIYBio Lab,2
+New Zealand,Fab Lab,6
+New Zealand,Hackerspace,14
+Nigeria,Fab Lab,1
+Nigeria,Hackerspace,3
+Norway,Fab Lab,5
+Norway,Hackerspace,17
+Oman,Fab Lab,1
+PRC,DIYBio Lab,1
+Pakistan,Fab Lab,1
+Pakistan,Hackerspace,6
+Palestine,Hackerspace,1
+"Palestine, State of",Fab Lab,1
+Panama,Fab Lab,1
+Paraguay,Fab Lab,2
+Paraguay,Hackerspace,1
+Peru,DIYBio Lab,1
+Peru,Fab Lab,11
+Peru,Hackerspace,5
+Philippines,Fab Lab,7
+Philippines,Hackerspace,9
+Philippines ,Hackerspace,1
+Poland,DIYBio Lab,1
+Poland,Fab Lab,13
+Poland,Hackerspace,11
+Portugal,Fab Lab,19
+Portugal,Hackerspace,17
+Puerto Rico,Fab Lab,4
+Puerto Rico,Hackerspace,1
+Qatar,Fab Lab,2
+Republic of BLAH,Hackerspace,1
+Republic of Korea,Hackerspace,3
+Republic of Moldova,Hackerspace,1
+Romania,Fab Lab,1
+Romania,Hackerspace,13
+Russian Federation,DIYBio Lab,1
+Russian Federation,Fab Lab,31
+Russian Federation,Hackerspace,16
+Rwanda,Fab Lab,3
+Rwanda,Hackerspace,1
+Réunion,Fab Lab,2
+Réunion,Hackerspace,1
+Saudi Arabia,Fab Lab,10
+Scotland,Hackerspace,1
+Senegal,Fab Lab,2
+Serbia,Fab Lab,4
+Serbia,Hackerspace,7
+Singapore,DIYBio Lab,1
+Singapore,Fab Lab,3
+Singapore,Hackerspace,1
+Slovakia,DIYBio Lab,1
+Slovakia,Fab Lab,3
+Slovakia,Hackerspace,2
+Slovenia,DIYBio Lab,1
+Slovenia,Fab Lab,3
+Slovenia,Hackerspace,3
+South Africa,Fab Lab,8
+South Africa,Hackerspace,14
+South Korea,Hackerspace,1
+Spain,DIYBio Lab,2
+Spain,Fab Lab,49
+Spain,Hackerspace,42
+Suriname,Fab Lab,1
+Sweden,DIYBio Lab,1
+Sweden,Fab Lab,1
+Sweden,Hackerspace,25
+Switzerland,DIYBio Lab,4
+Switzerland,Fab Lab,18
+Switzerland,Hackerspace,24
+Syria,Hackerspace,2
+Taiwan,Hackerspace,3
+Taiwan,Fab Lab,13
+Thailand,DIYBio Lab,1
+Thailand,Fab Lab,1
+Thailand,Hackerspace,8
+The Gambia,Hackerspace,1
+Netherlands,DIYBio Lab,3
+Togo,Fab Lab,1
+Togo,Hackerspace,1
+Trinidad and Tobago,Fab Lab,1
+Tunisia,Fab Lab,3
+Tunisia,Hackerspace,6
+Turkey,Fab Lab,8
+Turkey,Hackerspace,10
+Uganda,Hackerspace,1
+Ukraine,DIYBio Lab,1
+Ukraine,Fab Lab,6
+Ukraine,Hackerspace,3
+United Arab Emirates,Fab Lab,5
+United Arab Emirates,Hackerspace,1
+United Kingdom,DIYBio Lab,6
+United Kingdom,Fab Lab,41
+United Kingdom,Hackerspace,99
+United States,Fab Lab,169
+United States of America,DIYBio Lab,42
+United States of America,Hackerspace,820
+Uruguay,Fab Lab,1
+Uruguay,Hackerspace,2
+Vietnam,Fab Lab,7
+Vietnam,Hackerspace,4
+Yemen,Hackerspace,1
+eden,Hackerspace,1

@@ -40,7 +40,7 @@
             return {
                 type: 'bar',
                 name: y,
-                x: d.map(r => r.cluster),
+                x: d.map(r => r.country),
                 y: d.map(r => r.count)
             }
         })
