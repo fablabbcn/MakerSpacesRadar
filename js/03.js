@@ -33,7 +33,7 @@
             height: '100vh'
         });
 
-    Plotly.d3.csv('../data/00.csv', (err, rows) => {
+    Plotly.d3.csv('../data/03.csv', (err, rows) => {
         var data = labs.map(y => {
             var d = rows.filter(r => r.lab_type === y)
 

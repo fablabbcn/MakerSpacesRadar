@@ -1,0 +1,18 @@
+continent,lab_type,count
+Africa,Fab Lab,50
+Africa,Hackerspace,47
+Asia,DIYBio Lab,7
+Asia,Fab Lab,216
+Asia,Hackerspace,190
+Europe,DIYBio Lab,38
+Europe,Fab Lab,630
+Europe,Hackerspace,696
+North America,DIYBio Lab,48
+North America,Fab Lab,220
+North America,Hackerspace,850
+Oceania,DIYBio Lab,6
+Oceania,Fab Lab,9
+Oceania,Hackerspace,56
+South America,DIYBio Lab,5
+South America,Fab Lab,91
+South America,Hackerspace,118
