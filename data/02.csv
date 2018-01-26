@@ -1,5 +1,4 @@
 country,lab_type,count
-Switzerland,Hackerspace,1
 Afghanistan,Fab Lab,1
 Albania,Hackerspace,2
 Antigua and Barbuda,Hackerspace,1
@@ -222,7 +221,7 @@ Sweden,Fab Lab,1
 Sweden,Hackerspace,25
 Switzerland,DIYBio Lab,4
 Switzerland,Fab Lab,18
-Switzerland,Hackerspace,24
+Switzerland,Hackerspace,25
 Syria,Hackerspace,2
 Taiwan,Hackerspace,3
 Taiwan,Fab Lab,13
@@ -247,7 +246,7 @@ United Arab Emirates,Hackerspace,1
 United Kingdom,DIYBio Lab,6
 United Kingdom,Fab Lab,41
 United Kingdom,Hackerspace,99
-United States,Fab Lab,169
+United States of America,Fab Lab,169
 United States of America,DIYBio Lab,42
 United States of America,Hackerspace,820
 Uruguay,Fab Lab,1
