@@ -11,3 +11,5 @@ COPY . /usr/share/nginx/html
 WORKDIR /usr/share/nginx/html
 
 RUN yarn install
+
+EXPOSE 80
