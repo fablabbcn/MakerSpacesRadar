@@ -807,6 +807,20 @@ textarea
 .plotlyVisClass {
 }
 
+/* #continent-col {
+    min-height: 600px;
+}
+#country-col {
+    min-height: 1000px;
+}
+#city-col {
+
+}
+#choro-col {
+    min-height: 1000px;
+} */
+
+
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1920px) {
     body {
