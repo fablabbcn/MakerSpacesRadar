@@ -6,8 +6,6 @@
 (function() {
     var d3 = Plotly.d3;
 
-    var labs = ['Fab Lab', 'Hackerspace', 'DIYBio Lab'];
-
     var layout = {
         autosize: true,
         font: {
@@ -24,6 +22,13 @@
             t: 20,
             pad: 4
         },
+        geo: {
+            showframe: false,
+            showcoastlines: false,
+            projection: {
+                type: 'mercator'
+            }
+        },
     };
 
     var gd3 = d3.select('#plotlyVis')
@@ -33,23 +38,46 @@
             height: '100vh'
         });
 
-    Plotly.d3.csv('../data/06.csv', (err, rows) => {
-        var data = labs.map(y => {
-            var d = rows.filter(r => r.lab_type === y)
-
-            return {
-                type: 'bar',
-                name: y,
-                x: d.map(r => r.cluster),
-                y: d.map(r => r.count)
+    Plotly.d3.csv('../data/07.csv', function(err, rows) {
+        function unpack(rows, key) {
+            return rows.map(function(row) {
+                return row[key];
+            });
+        }
+        var data = [{
+            type: 'choropleth',
+            locations: unpack(rows, 'code'),
+            z: unpack(rows, 'count'),
+            text: unpack(rows, 'country'),
+            colorscale: [
+                [0, 'rgb(5, 10, 172)'],
+                [0.35, 'rgb(40, 60, 190)'],
+                [0.5, 'rgb(70, 100, 245)'],
+                [0.6, 'rgb(90, 120, 245)'],
+                [0.7, 'rgb(106, 137, 247)'],
+                [1, 'rgb(220, 220, 220)']
+            ],
+            autocolorscale: false,
+            reversescale: true,
+            marker: {
+                line: {
+                    color: 'rgb(180,180,180)',
+                    width: 0.5
+                }
+            },
+            tick0: 0,
+            zmin: 0,
+            dtick: 1000,
+            colorbar: {
+                autotic: false,
+                title: 'Number of labs'
             }
-        })
+        }];
 
         Plotly.newPlot('plotlyVis', data, layout, {
             displaylogo: false
         })
     });
-
 
 
     window.onresize = function() {
