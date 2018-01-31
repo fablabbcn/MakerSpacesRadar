@@ -208,51 +208,6 @@ h4
     text-align: center;
 }
 
-/* Automatical heading numbering */
-
-body
-{
-    counter-reset: h2counter;
-}
-
-h2
-{
-    counter-reset: h3counter;
-}
-
-h3
-{
-    counter-reset: h4counter;
-}
-
-.container-fluid h2:before
-{
-    content: counter(h2counter) '. ';
-    counter-increment: h2counter;
-}
-
-.container-fluid h3:before
-{
-    content: counter(h2counter) '.' counter(h3counter) '. ';
-    counter-increment: h3counter;
-}
-
-.container-fluid h4:before
-{
-    content: counter(h2counter) '.' counter(h3counter) '.' counter(h4counter) '. ';
-    counter-increment: h4counter;
-}
-
-h2.nocount:before,
-h3.nocount:before,
-h4.nocount:before,
-h5.nocount:before,
-h6.nocount:before
-{
-    content: '';
-    counter-increment: none;
-}
-
 ol,
 p,
 table,

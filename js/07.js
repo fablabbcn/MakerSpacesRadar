@@ -6,8 +6,6 @@
 (function() {
     var d3 = Plotly.d3;
 
-    var labs = ['Fab Lab', 'Hackerspace', 'DIYBio Lab'];
-
     var layout = {
         autosize: true,
         font: {
@@ -40,7 +38,7 @@
             height: '100vh'
         });
 
-    Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_world_gdp_with_codes.csv', function(err, rows) {
+    Plotly.d3.csv('../data/07.csv', function(err, rows) {
         function unpack(rows, key) {
             return rows.map(function(row) {
                 return row[key];
@@ -48,9 +46,9 @@
         }
         var data = [{
             type: 'choropleth',
-            locations: unpack(rows, 'CODE'),
-            z: unpack(rows, 'GDP (BILLIONS)'),
-            text: unpack(rows, 'COUNTRY'),
+            locations: unpack(rows, 'code'),
+            z: unpack(rows, 'count'),
+            text: unpack(rows, 'country'),
             colorscale: [
                 [0, 'rgb(5, 10, 172)'],
                 [0.35, 'rgb(40, 60, 190)'],
@@ -72,8 +70,7 @@
             dtick: 1000,
             colorbar: {
                 autotic: false,
-                tickprefix: '$',
-                title: 'GDP Billions US$'
+                title: 'Number of labs'
             }
         }];
 
