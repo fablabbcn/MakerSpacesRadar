@@ -1,0 +1,116 @@
+country,count,country_code
+Afghanistan,1,AF
+Albania,1,AL
+Algeria,4,DZ
+Antigua and Barbuda,1,AG
+Argentina,5,AR
+Armenia,1,AM
+Australia,21,AU
+Austria,15,AT
+B&H,2,BA
+Bahrain,1,BH
+Bangladesh,2,BD
+Belarus,3,BY
+Belgium,22,BE
+Brazil,40,BR
+Bulgaria,5,BG
+Cambodia,3,KH
+Cameroon,1,CM
+Canada,38,CA
+Chile,3,CL
+China,78,CN
+China,1,HK
+Colombia,9,CO
+Croatia,8,HR
+Cyprus,3,CY
+Czechia,7,CZ
+D.R.,1,DO
+Denmark,16,DK
+Ecuador,3,EC
+Egypt,10,EG
+El Salvador,1,SV
+Estonia,6,EE
+Ethiopia,3,ET
+Federated States of Micronesia,1,FM
+Finland,16,FI
+France,76,FR
+Gambia,1,GM
+Germany,185,DE
+Greece,14,GR
+Guatemala,2,GT
+Honduras,1,HN
+Hungary,6,HU
+India,45,IN
+Indonesia,8,ID
+Iran,8,IR
+Iraq,2,IQ
+Ireland,6,IE
+Israel,3,IL
+Italy,33,IT
+Japan,13,JP
+Kazakhstan,11,KZ
+Kenya,1,KE
+Kosovo,1,XK
+Kyrgyzstan,34,KG
+Laos,1,LA
+Latvia,2,LV
+Lebanon,3,LB
+Libya,1,LY
+Lithuania,5,LT
+Luxembourg,2,LU
+Malaysia,9,MY
+Maldives,2,MV
+Malta,1,MT
+Metropolitan France,1,FR
+Mexico,18,MX
+Mongolia,13,MN
+Morocco,4,MA
+Myanmar,2,MM
+Namibia,1,NA
+Nepal,10,NP
+New Zealand,5,NZ
+Nigeria,4,NG
+Norway,15,NO
+Oman,1,OM
+PRC,130,CN
+PRC,2,HK
+Pakistan,4,PK
+Palestine,1,PS
+Paraguay,1,PY
+Peru,2,PE
+Philippines,11,PH
+Poland,12,PL
+Portugal,8,PT
+ROC,1,TW
+RSA,6,ZA
+Romania,11,RO
+Russia,17,RU
+Rwanda,1,RW
+Saudi Arabia,5,SA
+Serbia,2,RS
+Singapore,1,SG
+Slovakia,2,SK
+Slovenia,3,SI
+Somalia,1,SO
+South Korea,4,KR
+Spain,27,ES
+Spain (territorial waters),2,ES
+Sweden,22,SE
+Switzerland,24,CH
+Syria,2,SY
+Taiwan,1,TW
+Thailand,10,TH
+The Netherlands,34,NL
+Togo,2,TG
+Tunisia,5,TN
+Turkey,6,TR
+Uganda,1,UG
+Ukraine,3,UA
+United Arab Emirates,1,AE
+United Kingdom,61,GB
+United States of America,1,GU
+United States of America,1,PR
+United States of America,350,US
+Vietnam,5,VN
+Yemen,3,YE
+the former Yugoslav Republic of Macedonia,1,MK

@@ -1,0 +1,107 @@
+country,count,country_code
+Afghanistan,1,AFG
+Argentina,12,ARG
+Australia,3,AUS
+Austria,9,AUT
+Bahrain,2,BHR
+Bangladesh,1,BGD
+Belgium,19,BEL
+Benin,2,BEN
+"Bolivia, Plurinational State of",1,BOL
+Brazil,40,BRA
+Bulgaria,1,BGR
+Burkina Faso,2,BFA
+Cambodia,1,KHM
+Cameroon,1,CMR
+Canada,23,CAN
+Chile,8,CHL
+China,21,CHN
+Colombia,8,COL
+Costa Rica,3,CRI
+Croatia,1,HRV
+Czechia,3,CZE
+Côte d'Ivoire,3,CIV
+Denmark,7,DNK
+Ecuador,6,ECU
+Egypt,9,EGY
+El Salvador,1,SLV
+Ethiopia,1,ETH
+Finland,5,FIN
+France,154,FRA
+French Guiana,1,GUF
+Georgia,25,GEO
+Germany,47,DEU
+Ghana,1,GHA
+Greece,3,GRC
+Guadeloupe,1,GLP
+Guatemala,1,GTM
+Hong Kong,1,HKG
+Hungary,1,HUN
+Iceland,8,ISL
+India,45,IND
+Indonesia,3,IDN
+"Iran, Islamic Republic of",4,IRN
+Ireland,4,IRL
+Israel,5,ISR
+Italy,134,ITA
+Jamaica,1,JAM
+Japan,17,JPN
+Jordan,4,JOR
+Kazakhstan,2,KAZ
+Kenya,2,KEN
+"Korea, Republic of",17,KOR
+Kuwait,3,KWT
+Latvia,2,LVA
+Lebanon,2,LBN
+Lithuania,2,LTU
+Luxembourg,2,LUX
+Macao,1,MAC
+Malaysia,1,MYS
+Mali,2,MLI
+Malta,1,MLT
+Mexico,15,MEX
+Montenegro,1,MNE
+Morocco,6,MAR
+Namibia,1,NAM
+Netherlands,32,NLD
+New Zealand,6,NZL
+Nigeria,1,NGA
+Norway,5,NOR
+Oman,1,OMN
+Pakistan,1,PAK
+"Palestine, State of",1,PSE
+Panama,1,PAN
+Paraguay,2,PRY
+Peru,11,PER
+Philippines,7,PHL
+Poland,13,POL
+Portugal,19,PRT
+Puerto Rico,4,PRI
+Qatar,2,QAT
+Romania,1,ROU
+Russian Federation,31,RUS
+Rwanda,3,RWA
+Réunion,2,REU
+Saudi Arabia,10,SAU
+Senegal,2,SEN
+Serbia,4,SRB
+Singapore,3,SGP
+Slovakia,3,SVK
+Slovenia,3,SVN
+South Africa,8,ZAF
+Spain,49,ESP
+Suriname,1,SUR
+Sweden,1,SWE
+Switzerland,18,CHE
+"Taiwan, Province of China",13,TWN
+Thailand,1,THA
+Togo,1,TGO
+Trinidad and Tobago,1,TTO
+Tunisia,3,TUN
+Turkey,8,TUR
+Ukraine,6,UKR
+United Arab Emirates,5,ARE
+United Kingdom,41,GBR
+United States,170,USA
+Uruguay,1,URY
+Viet Nam,7,VNM
