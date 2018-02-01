@@ -39,7 +39,7 @@
             height: '100vh'
         });
 
-    Plotly.d3.csv('../data/06.csv', function(err, rows) {
+    Plotly.d3.csv('data/06.csv', function(err, rows) {
         function unpack(rows, key) {
             return rows.map(function(row) {
                 return row[key];
