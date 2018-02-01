@@ -1,48 +1,81 @@
 city,lab_type,count
-,Fab Lab,10
 's-Hertogenbosch,Fab Lab,1
+'s-Hertogenbosch,Hackerspace,1
+6th of October,Hackerspace,1
 6th of October City,Fab Lab,1
 75005,Fab Lab,1
+A Coruña,Hackerspace,1
 ANCONA,Fab Lab,1
 Aachen,Fab Lab,1
+Aachen,Hackerspace,4
+Aalborg,Hackerspace,3
+Aarhus,Hackerspace,1
 Aberdeen,Fab Lab,2
 Abidjan,Fab Lab,3
+Abu Minqar,Hackerspace,2
 Addis Ababa,Fab Lab,1
+Addis Ababa,Hackerspace,1
 Adelaide,Fab Lab,1
 Agrigento,Fab Lab,1
+Aguascalientes,Hackerspace,1
 Ahmedabad,Fab Lab,1
+Ahmedabad,Hackerspace,1
 Aix-en-Provence,Fab Lab,2
+Aix-en-Provence,Hackerspace,1
 Ajaccio,Fab Lab,1
+Ajim,Hackerspace,1
 Akhaltsikhe,Fab Lab,1
 Akranes,Fab Lab,1
 Akureyri,Fab Lab,1
 Al Khobar,Fab Lab,1
+Al Qaryatayn,Hackerspace,1
 Al Qatif,Fab Lab,2
+Al-Minya,Hackerspace,1
 Albacete,DIYBio Lab,1
+Albany,Hackerspace,1
 Albi,Fab Lab,1
+Albireh,Hackerspace,1
 Alboraia,Fab Lab,1
 Albuquerque,Fab Lab,2
+Albuquerque,Hackerspace,1
 Alessandria,Fab Lab,1
+Alessandria,Hackerspace,1
 Alesund,Fab Lab,1
 Alexandria,Fab Lab,3
+Aligani,Hackerspace,1
 Alkmaar,Fab Lab,1
+Alkmaar,Hackerspace,1
+Allentown,Hackerspace,2
 Almada,Fab Lab,1
 Almendralejo,Fab Lab,1
+Almere,Hackerspace,1
+Almeria,Hackerspace,1
 Alqosor,Fab Lab,1
 Alseeb,Fab Lab,1
+Alta,Hackerspace,1
+Altoona,Hackerspace,1
 Altrincham,Fab Lab,1
 Amanlis,Fab Lab,1
+Amberg,Hackerspace,1
 Ambrolauri,Fab Lab,1
 Ambérieu-en-Bugey,Fab Lab,1
 Amersfoort,Fab Lab,1
+Amersfoort,Hackerspace,1
+Ames,Hackerspace,1
 Amiens,Fab Lab,1
 Amman,Fab Lab,3
 Amsterdam,DIYBio Lab,1
 Amsterdam,Fab Lab,3
+Amsterdam,Hackerspace,3
 Anchorage,Fab Lab,1
 Anderlecht,Fab Lab,1
+Angoulême,Hackerspace,1
+Ann Arbor,Hackerspace,1
+Annecy,Hackerspace,1
+Ansbach,Hackerspace,1
 Antibes,Fab Lab,1
 Antofagasta,Fab Lab,1
+Antwerp,Hackerspace,2
 Antwerpen,Fab Lab,2
 Anápolis,Fab Lab,1
 Aosta,Fab Lab,1
@@ -51,57 +84,104 @@ Appleton,Fab Lab,1
 Ar-Rayyan,Fab Lab,1
 Aracaju,Fab Lab,1
 Arcos de Valdevez,Fab Lab,1
+Arica,Hackerspace,1
 Arlington,Fab Lab,1
+Armenia,Hackerspace,1
 Arnhem,Fab Lab,1
+Arnhem,Hackerspace,1
 Arras,Fab Lab,1
+Arvika,Hackerspace,1
 As Pontes de García Rodríguez,Fab Lab,1
+Aschaffenburg,Hackerspace,1
 Asheville,DIYBio Lab,1
 Astana,Fab Lab,1
+Asuncion,Hackerspace,1
 Athens,Fab Lab,1
+Athens,Hackerspace,1
 Atlanta,Fab Lab,1
+Atlanta,Hackerspace,3
 Atyrau,Fab Lab,1
 Aubiere,Fab Lab,1
 Auckland,DIYBio Lab,1
 Auckland,Fab Lab,2
+Augsburg,Hackerspace,1
+Augusta,Hackerspace,2
 Auray,Fab Lab,1
+Aurich,Hackerspace,1
 Aurora,Fab Lab,2
 Austin,DIYBio Lab,1
+Austin,Hackerspace,3
+Autonomous City of Buenos Aires,Hackerspace,2
 Autun,Fab Lab,1
 Auxerre,Fab Lab,1
 BHIMAVARAM,Fab Lab,1
+Bad Oeynhausen,Hackerspace,1
+Bad Oldesloe,Hackerspace,1
+Baghdad,Hackerspace,1
+Baicheng,Hackerspace,3
 Baie Mahault,Fab Lab,1
 Bakersfield,Fab Lab,1
+Ballarat,Hackerspace,1
 Baltimore,DIYBio Lab,1
 Baltimore,Fab Lab,2
+Baltimore,Hackerspace,2
 Bamako,Fab Lab,2
+Bamberg,Hackerspace,1
 Bandung,Fab Lab,1
 Bangalore,Fab Lab,2
 Bangkok,DIYBio Lab,1
 Bangkok,Fab Lab,1
+Bangkok,Hackerspace,5
 Bangor,Fab Lab,1
+Bangor,Hackerspace,1
 Barbizon,Fab Lab,1
 Barcelona,DIYBio Lab,1
 Barcelona,Fab Lab,4
+Barcelona,Hackerspace,4
+Barga Town,Hackerspace,1
+Barrow-in-Furness,Hackerspace,1
+Bartlett,Hackerspace,1
 Basel,Fab Lab,1
+Basel,Hackerspace,1
 Basildon,Fab Lab,1
+Basingstoke and Deane,Hackerspace,1
+Bastogne,Hackerspace,1
 Batumi,Fab Lab,2
+Bauru,Hackerspace,2
+Bayantala,Hackerspace,1
+Bayinhushuo,Hackerspace,1
 Bayreuth,Fab Lab,1
 Beauvais,Fab Lab,2
 Beirut,Fab Lab,1
+Bekasi,Hackerspace,1
 Belfast,Fab Lab,1
+Belfast,Hackerspace,1
+Belfort,Hackerspace,1
 Belgrade,Fab Lab,1
+Bellevue,Hackerspace,1
 Bellingham,Fab Lab,3
+Bellingham,Hackerspace,1
 Bellinzago Novarese (NO),Fab Lab,1
 Belo Horizonte,Fab Lab,2
+Belo Horizonte,Hackerspace,1
 Belval,Fab Lab,1
 Belém,Fab Lab,1
+Bengaluru,Hackerspace,3
+Benicia,Hackerspace,1
+Benito Juárez,Hackerspace,1
+Bensalem Township,Hackerspace,1
 Benton Harbor,Fab Lab,1
 Beograd,Fab Lab,2
 Bergamo,Fab Lab,1
+Bergen,Hackerspace,1
 Bergen op Zoom,Fab Lab,1
+Bergheim,Hackerspace,1
 Berkeley,DIYBio Lab,1
+Berkeley,Hackerspace,2
 Berlin,DIYBio Lab,1
 Berlin,Fab Lab,3
+Berlin,Hackerspace,1
+Bern,Hackerspace,1
 Berne,Fab Lab,1
 Besançon,Fab Lab,2
 Bethesda,DIYBio Lab,1
@@ -109,243 +189,447 @@ Bethlehem,Fab Lab,1
 Betim,Fab Lab,1
 Bhopal,Fab Lab,1
 Biarne,Fab Lab,1
+Białystok,Hackerspace,1
 Biddeford,Fab Lab,1
+Biddeford,Hackerspace,1
+Bielefeld,Hackerspace,1
 Biella,Fab Lab,1
 Bielsko-Biala,Fab Lab,1
 Bilbao,Fab Lab,2
+Binghamton,Hackerspace,1
 Birmingham,Fab Lab,1
+Birmingham,Hackerspace,3
+Bismarck,Hackerspace,1
 Blackburn,Fab Lab,1
+Blagoveshchensk,Hackerspace,1
 Bloemfontein,Fab Lab,1
 Blois,Fab Lab,1
+Blois,Hackerspace,1
+Bloomington,Hackerspace,2
 Blue Hill,Fab Lab,1
+Blumenau,Hackerspace,2
 Boadilla del Monte,Fab Lab,1
+Bochum,Hackerspace,1
 Bogota,Fab Lab,1
 Bogotá,Fab Lab,1
 Bologna,Fab Lab,1
+Bonn,Hackerspace,1
 Bonners Ferry,Fab Lab,1
 Bordeaux,Fab Lab,2
+Bordeaux,Hackerspace,1
+Borsbeek,Hackerspace,1
 Boston,DIYBio Lab,1
 Boston,Fab Lab,8
+Boston,Hackerspace,2
 Bottrop,Fab Lab,1
+Boulder,Hackerspace,2
 Bourges,Fab Lab,1
 Bournemouth ,Fab Lab,1
 Bowling Green,Fab Lab,1
+Bowling Green,Hackerspace,1
+Boynton Beach,Hackerspace,1
+Bozeman,Hackerspace,2
 Bozen,Fab Lab,1
 Bracciano,Fab Lab,1
 Bragança,Fab Lab,1
 Bras-sur-Meuse,Fab Lab,1
 Brasilia,Fab Lab,1
+Brasschaat,Hackerspace,1
 Bratislava,DIYBio Lab,1
 Bratislava,Fab Lab,3
 Braunschweig,Fab Lab,1
+Brașov,Hackerspace,2
 Breda,Fab Lab,1
 Bremen,Fab Lab,1
+Bremen,Hackerspace,4
+Bremgarten,Hackerspace,1
 Brescia,Fab Lab,1
 Brest,Fab Lab,1
+Brest,Hackerspace,1
 Brighton,Fab Lab,1
+Brighton,Hackerspace,1
 Brindisi,Fab Lab,2
 Bristol,Fab Lab,1
 Brno,Fab Lab,1
+Brno,Hackerspace,1
 Bron,Fab Lab,1
 Bronx,Fab Lab,1
+Brookings,Hackerspace,1
 Brooklyn,DIYBio Lab,2
 Brossard,Fab Lab,1
+Bruchhausen-Vilsen,Hackerspace,1
+Bruges,Hackerspace,2
 Brugge,Fab Lab,1
+Brunswick,Hackerspace,1
 Brussels,DIYBio Lab,1
 Brussels,Fab Lab,1
+Bryan,Hackerspace,1
+Bucharest,Hackerspace,3
 București,Fab Lab,1
 Budapest,DIYBio Lab,1
 Budapest,Fab Lab,1
+Budapest,Hackerspace,3
+Buea,Hackerspace,1
 Buenos Aires,DIYBio Lab,1
 Buenos Aires,Fab Lab,4
+Buffalo,Hackerspace,1
+Buga,Hackerspace,1
 Bures-sur-Yvette,Fab Lab,1
+Burgas,Hackerspace,1
 Burgos,Fab Lab,1
+Burlingame,Hackerspace,1
+Burlington,Hackerspace,2
 Busan,Fab Lab,3
 Busanjin-gu,Fab Lab,1
 Butler,Fab Lab,1
+Bègles,Hackerspace,1
 Béni Mellal,Fab Lab,1
 Béziers,Fab Lab,1
+Bürglen (UR),Hackerspace,1
 CASTELFRANCO VENETO,Fab Lab,1
 CLERMONT-FERRAND,Fab Lab,1
+Cabedelo,Hackerspace,1
 Caen,Fab Lab,1
 Cagliari,Fab Lab,3
+Cairns,Hackerspace,1
 Cairo,Fab Lab,2
+Cairo,Hackerspace,2
 Caldas da Rainha,Fab Lab,1
+Calderdale,Hackerspace,1
 Caldes de Boí,Fab Lab,1
+Calgary,Hackerspace,1
 Cali,Fab Lab,1
+Caloocan,Hackerspace,4
+Calw,Hackerspace,1
 Camaçari,Fab Lab,1
 Cambridge,DIYBio Lab,2
 Cambridge,Fab Lab,2
+Cambridge,Hackerspace,4
 Camden,Fab Lab,1
+Campbelltown,Hackerspace,1
 Campeche,Fab Lab,1
+Campinas,Hackerspace,1
 Can Tho,Fab Lab,1
 Cannes,Fab Lab,1
 Canoas,Fab Lab,1
 Canobbio,Fab Lab,1
+Canterbury,Hackerspace,1
+Canton,Hackerspace,1
 Cantù,Fab Lab,1
+Caojiawan Town,Hackerspace,1
 Cape Town,Fab Lab,1
+Cape Town,Hackerspace,1
 Cardiff,Fab Lab,1
 Carlsbad,DIYBio Lab,1
+Carouge (GE),Hackerspace,1
+Carrara,Hackerspace,1
 Carson,Fab Lab,1
 Casablanca,Fab Lab,2
+Casablanca,Hackerspace,1
 Cascina,Fab Lab,1
 Cassola,Fab Lab,1
 Castelfranco Veneto,Fab Lab,1
 Castelldefels,Fab Lab,1
+Castellón de la Plana,Hackerspace,1
 Castelo Branco,Fab Lab,1
 Castres,Fab Lab,1
 Catania,Fab Lab,2
+Catania,Hackerspace,3
+Catanzaro,Hackerspace,2
 Catonsville,Fab Lab,1
+Catonsville,Hackerspace,1
 Cava de' Tirreni,Fab Lab,1
 Caylus,Fab Lab,1
 Cebu City,Fab Lab,1
+Cebu City,Hackerspace,1
+Cedar Falls,Hackerspace,1
+Chabu,Hackerspace,4
+Chahar Right Middle Banner,Hackerspace,1
 Chalon-sur-Saône,Fab Lab,2
 Chambéry,Fab Lab,1
+Chambéry,Hackerspace,1
+Chamdo City,Hackerspace,4
 Champagnole,Fab Lab,1
 Champs-sur-Marne,Fab Lab,1
+Champs-sur-Marne,Hackerspace,1
 Chandigarh,Fab Lab,1
+Chandler,Hackerspace,1
+Changchun City,Hackerspace,1
+Chapeco,Hackerspace,1
+Chapel Hill,Hackerspace,2
+Chapinero,Hackerspace,1
+Charleroi,Hackerspace,1
+Charleston,Hackerspace,1
 Charleville-Mézières,Fab Lab,1
 Charlotte,Fab Lab,2
+Charlotte,Hackerspace,2
 Charlottesville,DIYBio Lab,1
+Charlottesville,Hackerspace,2
 Charlottetown,Fab Lab,1
+Chatham,Hackerspace,1
 Chattanooga,Fab Lab,1
+Chattanooga,Hackerspace,1
 Chemnitz,Fab Lab,1
+Chemnitz,Hackerspace,1
 Chengannur,Fab Lab,1
 Chengdu,Fab Lab,1
+Chengdu,Hackerspace,1
+Chenjiagang,Hackerspace,1
 Chennai,Fab Lab,1
+Chennai,Hackerspace,3
 Cheruthuruthy,Fab Lab,1
 Cheyenne,DIYBio Lab,1
+Cheyenne,Hackerspace,1
 Chicago,DIYBio Lab,1
 Chicago,Fab Lab,2
+Chicago,Hackerspace,5
+Chico,Hackerspace,1
 Chieri,Fab Lab,1
 Chihuahua,Fab Lab,1
+Chillicothe,Hackerspace,1
+Chippewa Falls,Hackerspace,1
 Chirayinkeezhu,Fab Lab,1
+Choisy-le-Roi,Hackerspace,1
 Christchurch,Fab Lab,1
+Chuo,Hackerspace,1
 Château-Thierry,Fab Lab,1
 Châteauroux,Fab Lab,1
+Cincinnati,Hackerspace,1
 Cintegabelle,Fab Lab,1
 Ciudad Juárez,Fab Lab,1
 Ciudad de México,Fab Lab,1
+Ciutadella,Hackerspace,1
 Clane,Fab Lab,1
 Clayton,Fab Lab,1
 Clearwater,Fab Lab,1
 Clermont-Ferrand,Fab Lab,1
+Clermont-Ferrand,Hackerspace,1
 Cleveland,Fab Lab,1
 Cloughjordan,Fab Lab,1
+Cluj-Napoca,Hackerspace,2
 Coal Center,Fab Lab,1
 Coalbrookdale,Fab Lab,1
+Coburg,Hackerspace,1
 Cockermouth,Fab Lab,1
 Coimbatore,Fab Lab,1
+Colima,Hackerspace,2
 Cologne,Fab Lab,1
+Cologne,Hackerspace,3
+Colorado Springs,Hackerspace,1
 Columbia,DIYBio Lab,1
 Columbus,DIYBio Lab,1
 Columbus,Fab Lab,1
 Commenailles,Fab Lab,1
 Comodoro Rivadavia,Fab Lab,1
 Compiègne,Fab Lab,1
+Comuna 03,Hackerspace,1
 Comunanza,Fab Lab,1
+Concórdia,Hackerspace,1
 Conegliano,Fab Lab,1
+Constance,Hackerspace,1
 Contea,Fab Lab,1
 Copenhagen,DIYBio Lab,1
+Copenhagen,Hackerspace,2
 Cork,DIYBio Lab,1
+Cork,Hackerspace,3
+Cornwall,Hackerspace,1
 Corte Madera,Fab Lab,1
 Corti,Fab Lab,1
+Cosenza,Hackerspace,2
+Costa Mesa,Hackerspace,1
 Cotonou,Fab Lab,2
 Cottbus,Fab Lab,1
+Cottbus,Hackerspace,1
 Coudures,Fab Lab,1
+Coupar Angus,Hackerspace,1
 Coventry,Fab Lab,1
+Covilhã e Canhoso,Hackerspace,1
 Creazzo,Fab Lab,1
 Crest,Fab Lab,1
 Crookston,Fab Lab,1
+Crossville,Hackerspace,1
 Cuenca,Fab Lab,1
+Cuenca,Hackerspace,1
 Cuiabá,Fab Lab,1
+Cuiabá,Hackerspace,1
 Culiacán Rosales,Fab Lab,1
 Cuneo,Fab Lab,2
 Curitiba,Fab Lab,1
+Curitiba,Hackerspace,1
 Cáceres,Fab Lab,1
 Córdoba,Fab Lab,2
+Córdoba,Hackerspace,1
 D'Abadie,Fab Lab,1
+Dacula,Hackerspace,1
 Daejeon,Fab Lab,1
+Dagur,Hackerspace,1
+Dah,Hackerspace,3
 Dakar,Fab Lab,2
 Dallas,DIYBio Lab,1
 Danang,Fab Lab,1
+Dangchengwan,Hackerspace,1
+Danjiangkou,Hackerspace,1
 Darlinghurst,Fab Lab,1
 Darmstadt,Fab Lab,1
+Darmstadt,Hackerspace,1
 Davenport,Fab Lab,1
+Davis,Hackerspace,1
 Dax,Fab Lab,1
+Dayangshu,Hackerspace,1
 Dayton,Fab Lab,3
 Dazaifu-shi,Fab Lab,1
+De Marne,Hackerspace,2
+Decatur,Hackerspace,1
 Deer Isle,Fab Lab,1
+Deerfield Beach,Hackerspace,1
+Deggendorf,Hackerspace,1
+Delhi,Hackerspace,2
+Denbighshire,Hackerspace,1
 Denver,DIYBio Lab,1
+Denver,Hackerspace,2
+Derby,Hackerspace,1
 Derry,Fab Lab,1
+Des Moines,Hackerspace,1
 Detroit,Fab Lab,2
+Detroit,Hackerspace,2
 Deventer,Fab Lab,1
 Dhaka,Fab Lab,1
+Dhaka,Hackerspace,1
 Differdange,Fab Lab,1
 Dijon,Fab Lab,2
+Dijon,Hackerspace,2
+Dinslaken,Hackerspace,1
+District of Košice I,Hackerspace,1
 Doha,Fab Lab,1
 Dokki,Fab Lab,1
 Dongguan,Fab Lab,1
+Dongguan City,Hackerspace,1
+Dongru,Hackerspace,2
 Donostia-San Sebastian,Fab Lab,1
 Dorado,Fab Lab,1
+Dornbirn,Hackerspace,1
 Dortmund,Fab Lab,1
+Dortmund,Hackerspace,1
 Douai,Fab Lab,1
 Dourados,Fab Lab,1
+Dover,Hackerspace,1
 Dresden,Fab Lab,1
+Dresden,Hackerspace,2
 Dripping Springs,Fab Lab,1
 Dronten,Fab Lab,2
 Dubai,Fab Lab,5
+Dublin,Hackerspace,3
+Duisburg,Hackerspace,1
+Duluth,Hackerspace,2
+Dumaguete,Hackerspace,1
 Dumfries,Fab Lab,1
+Dundee City,Hackerspace,1
+Dunedin,Hackerspace,1
+Durban,Hackerspace,1
 Durham,DIYBio Lab,1
 Durham,Fab Lab,1
+Durham,Hackerspace,1
 Durham ,Fab Lab,1
+Duxbury,Hackerspace,1
+Dwarka,Hackerspace,1
 Düsseldorf,Fab Lab,3
+Düsseldorf,Hackerspace,3
 ERNAKULAM,Fab Lab,1
 East Cleveland,Fab Lab,1
+East Lindsey,Hackerspace,1
 East Troy,Fab Lab,1
 Eastleigh,Fab Lab,1
 Eberswalde,DIYBio Lab,1
 Edinburg,Fab Lab,1
+Edinburg,Hackerspace,1
+Edmonton,Hackerspace,1
 Edwardsville,Fab Lab,1
+Eemsmond,Hackerspace,1
+Einbeck,Hackerspace,1
 Eindhoven,DIYBio Lab,1
 Eindhoven,Fab Lab,1
+Eindhoven,Hackerspace,2
+El Hamra,Hackerspace,1
 El Paso,Fab Lab,1
+El Paso City,Hackerspace,2
 Elizabeth,Fab Lab,2
+Elkhart,Hackerspace,1
 Ellesmere Port,Fab Lab,1
 Elyria,Fab Lab,1
+Emfuleni Local Municipality,Hackerspace,1
 Enschede,Fab Lab,2
+Enschede,Hackerspace,1
+Ensenada,Hackerspace,2
+Erdenemandal,Hackerspace,1
+Erfurt,Hackerspace,1
+Erie,Hackerspace,1
 Erlangen,DIYBio Lab,1
 Erlangen,Fab Lab,1
+Erlangen,Hackerspace,2
 Ernakulam,Fab Lab,3
 Erpe-Mere,Fab Lab,1
+Esbjerg,Hackerspace,1
 Eskişehir,Fab Lab,1
 Essen,Fab Lab,1
+Essen,Hackerspace,3
+Esztergom,Hackerspace,1
 Eugene,Fab Lab,1
+Eugene,Hackerspace,1
+Everett,Hackerspace,1
 Exeter,Fab Lab,1
 Faenza,Fab Lab,1
+Fairfield,Hackerspace,1
+Falkenberg,Hackerspace,1
+Farmers Branch,Hackerspace,1
 Fayetteville,Fab Lab,2
+Fayetteville,Hackerspace,1
+Feira de Santana,Hackerspace,1
 Felipe Carrillo Puerto,Fab Lab,1
 Ferney-Voltaire,Fab Lab,1
+Fife,Hackerspace,1
 Firenze,Fab Lab,2
+Flagstaff,Hackerspace,1
+Flensburg,Hackerspace,1
 Flint,Fab Lab,1
 Florianopolis,Fab Lab,1
 Florianópolis,Fab Lab,3
+Florianópolis,Hackerspace,1
+Florissant,Hackerspace,1
 Folschviller,Fab Lab,1
+Fort Collins,Hackerspace,2
 Fort Pierce,Fab Lab,1
+Fort Smith,Hackerspace,1
 Fort Wayne,Fab Lab,1
+Fort Wayne,Hackerspace,2
 Fortaleza,Fab Lab,2
+Fortaleza,Hackerspace,1
+Frankfurt,Hackerspace,3
+Freiburg im Breisgau,Hackerspace,1
 Freixo,Fab Lab,1
 Frelighsburg,Fab Lab,1
 Fresno,Fab Lab,1
+Fresno,Hackerspace,2
 Fribourg,Fab Lab,1
+Fribourg - Freiburg,Hackerspace,1
 Fromes Hill,Fab Lab,1
 Frosinone,Fab Lab,1
+Fukang,Hackerspace,1
 Fukuoka,Fab Lab,1
+Fukuoka,Hackerspace,2
+Fulda,Hackerspace,1
 Fulton,Fab Lab,1
 Fundão,Fab Lab,1
+GRN,Hackerspace,1
+Gahaile Sumu,Hackerspace,1
 Gandhinagar,Fab Lab,1
+Garden City,Hackerspace,2
 Gatineau,Fab Lab,1
+Gdańsk,Hackerspace,1
 Gdynia,Fab Lab,1
+Gdynia,Hackerspace,1
+Geelong,Hackerspace,1
+Gelugor,Hackerspace,1
+Gemeinde St. Pölten,Hackerspace,1
 Geneva,DIYBio Lab,1
 Genk,Fab Lab,1
 Gennevilliers,Fab Lab,1
@@ -355,211 +639,435 @@ Genève,Fab Lab,2
 Ghaziabad,Fab Lab,1
 Ghent,DIYBio Lab,1
 Ghent,Fab Lab,1
+Ghent,Hackerspace,1
+Gibsons,Hackerspace,1
 Gif-sur-Yvette,Fab Lab,1
 Gijón,Fab Lab,1
+Giza,Hackerspace,1
+Glarus,Hackerspace,1
+Glarus Süd,Hackerspace,1
 Glasgow,Fab Lab,4
+Glasgow City,Hackerspace,1
 Glen Dale,Fab Lab,1
+Glória e Vera Cruz,Hackerspace,1
 Goes,Fab Lab,1
+Goiânia,Hackerspace,1
+Golmud,Hackerspace,3
 Gonesse,Fab Lab,1
+Gorizia,Hackerspace,1
+Goshen,Hackerspace,1
+Gotha,Hackerspace,1
+Gothenburg,Hackerspace,4
 Gourdon,Fab Lab,1
 Gradignan,Fab Lab,1
+Grand Rapids,Hackerspace,1
 Granville,Fab Lab,1
+Grass Valley,Hackerspace,1
 Grassano,Fab Lab,2
 Graz,DIYBio Lab,1
 Graz,Fab Lab,1
+Graz,Hackerspace,1
+Greater Hyderabad Municipal Corporation,Hackerspace,1
+Greenbelt,Hackerspace,1
+Greensboro,Hackerspace,1
 Greenville,Fab Lab,1
+Greenville,Hackerspace,1
+Greifswald,Hackerspace,1
 Grenoble,Fab Lab,1
+Grenoble,Hackerspace,1
 Gresal,Fab Lab,1
 Grezzana,Fab Lab,1
+Griffith,Hackerspace,1
 Grindstone,Fab Lab,1
 Groningen,DIYBio Lab,1
 Groningen,Fab Lab,1
+Groningen,Hackerspace,2
 Grono,Fab Lab,1
 Gréasque,Fab Lab,1
 Guadalajara,Fab Lab,1
+Guadalajara,Hackerspace,1
 Guanajuato,DIYBio Lab,1
+Guangzhou,Hackerspace,2
 Guarda,Fab Lab,1
 Guarulhos,Fab Lab,1
+Guatemala City,Hackerspace,2
+Guayaquil,Hackerspace,1
+Guelph,Hackerspace,1
+Guildford,Hackerspace,1
+Gumu,Hackerspace,1
 Gurabo,Fab Lab,1
+Gurugram,Hackerspace,1
+Guwahati,Hackerspace,1
 Guyancourt,Fab Lab,1
 Gwacheon-si,Fab Lab,1
 Gwangju,Fab Lab,1
+Gêrzê,Hackerspace,1
+Göttingen,Hackerspace,1
+Hachioji,Hackerspace,1
+Had Kourt,Hackerspace,1
 Haeundae-gu,Fab Lab,1
+Haidian District,Hackerspace,3
 Haifa,Fab Lab,1
+Haifa,Hackerspace,1
+Halle (Saale),Hackerspace,2
+Halmstad,Hackerspace,1
 Hamamatsu-city,Fab Lab,1
 Hamburg,Fab Lab,3
+Hami,Hackerspace,1
 Hamilton,Fab Lab,1
+Hamilton,Hackerspace,1
 Hangzhou,Fab Lab,1
 Hanoi,Fab Lab,3
+Hanoi,Hackerspace,2
+Hanover,Hackerspace,3
 Harrison,Fab Lab,1
+Hartford,Hackerspace,2
 Havre (Le),Fab Lab,2
+Hazel Park,Hackerspace,1
+Heerlen,Hackerspace,1
 Heidelberg,DIYBio Lab,1
 Heidelberg,Fab Lab,1
+Heidelberg,Hackerspace,1
+Heilbronn,Hackerspace,1
+Helena,Hackerspace,1
+Helsingborg,Hackerspace,1
 Helsinki,Fab Lab,1
+Helsinki,Hackerspace,4
+Henderson-Massey,Hackerspace,1
+Heraklion,Hackerspace,2
 Heroica Puebla de Zaragoza,Fab Lab,1
+Hildesheim,Hackerspace,1
 Hiratsuka,Fab Lab,1
 Ho Chi Minh City,Fab Lab,1
+Ho Chi Minh City,Hackerspace,1
+Hof,Hackerspace,1
+Hohhot,Hackerspace,1
 Holon,Fab Lab,1
 Hong Kong,DIYBio Lab,1
 Hong Kong,Fab Lab,1
+Hong Kong,Hackerspace,1
 Honolulu,Fab Lab,1
+Honolulu,Hackerspace,2
 Horw,Fab Lab,1
+Horw,Hackerspace,1
+Houghton,Hackerspace,1
 Houston,DIYBio Lab,1
 Houston,Fab Lab,2
 Houten,Fab Lab,1
 Hradec Kralove,Fab Lab,1
+Hsawlaw Township,Hackerspace,1
 Hsinchu,Fab Lab,1
 Huancayo,Fab Lab,1
 Huntsville,Fab Lab,2
+Huntsville,Hackerspace,1
 Höfn í Hornafirði,Fab Lab,1
 Hồ Chí Minh,Fab Lab,1
+Iași,Hackerspace,1
 Ibadan,Fab Lab,1
+Ibarra,Hackerspace,1
 Iligan City,Fab Lab,1
+Ilmenau,Hackerspace,1
 Imola,Fab Lab,1
 Imperia,Fab Lab,1
+Imphal,Hackerspace,1
 Independence,Fab Lab,1
 Indianapolis,DIYBio Lab,1
+Indianapolis,Hackerspace,1
+Inglewood,Hackerspace,1
 Ingolstadt,Fab Lab,1
+Ingolstadt,Hackerspace,1
+Innsbruck,Hackerspace,1
 Ins,Fab Lab,1
 Ioannina,Fab Lab,1
+Ioannina,Hackerspace,1
 Iowa City,Fab Lab,1
+Iowa City,Hackerspace,1
+Ipswich,Hackerspace,1
 Irbid,Fab Lab,1
 Irvine,Fab Lab,1
+Irvine,Hackerspace,1
 Isfahan,Fab Lab,1
+Islamabad,Hackerspace,1
 Istanbul,Fab Lab,5
+Istanbul,Hackerspace,1
+Itabashi,Hackerspace,1
 Itabuna,Fab Lab,1
+Itajaí,Hackerspace,1
+Ithaca,Hackerspace,1
+Itu,Hackerspace,1
+Itzehoe,Hackerspace,1
 Ivrea,Fab Lab,1
 Ixelles,Fab Lab,2
+Ixelles - Elsene,Hackerspace,1
 Izmir,Fab Lab,1
+Izmir,Hackerspace,1
 Jabalpur,Fab Lab,1
 Jackson,DIYBio Lab,1
+Jackson,Hackerspace,1
+Jacksonville,Hackerspace,1
 Jaguariúna,Fab Lab,1
 Jalalabad,Fab Lab,1
+Jaraguá do Sul,Hackerspace,1
+Jarville-la-Malgrange,Hackerspace,1
 Jeddah,Fab Lab,2
+Jefferson,Hackerspace,1
+Jena,Hackerspace,1
 Jersey City,Fab Lab,1
 Jerusalem,Fab Lab,1
+Jing'an,Hackerspace,1
+Jnublat,Hackerspace,1
+Joensuu,Hackerspace,1
+Johor Bahru,Hackerspace,1
 Joinville,Fab Lab,1
+Joplin,Hackerspace,1
 Jubail,Fab Lab,1
 Jung-gu,Fab Lab,1
+Jyväskylä,Hackerspace,1
 KISUMU,Fab Lab,1
 Kachreti,Fab Lab,1
+Kadıköy,Hackerspace,1
+Kahului,Hackerspace,1
+Kaiserslautern,Hackerspace,2
+Kajang,Hackerspace,1
+Kaliningrad,Hackerspace,1
 Kaluga,Fab Lab,1
 Kamakura,Fab Lab,1
+Kamloops,Hackerspace,1
 Kamp-Lintfort,Fab Lab,1
 Kannur,Fab Lab,1
 Kanpur,Fab Lab,1
 Kansas City,DIYBio Lab,1
 Kansas City,Fab Lab,3
+Kansas City,Hackerspace,2
 Kaohsiung,Fab Lab,2
+Karachi,Hackerspace,1
+Karaj,Hackerspace,1
+Karlskrona,Hackerspace,1
 Karlsruhe,Fab Lab,1
+Karlsruhe,Hackerspace,2
+Karlstad,Hackerspace,1
 Kasaragod,Fab Lab,1
+Kassel,Hackerspace,3
+Katowice,Hackerspace,1
 Katsikas,Fab Lab,1
 Kaunas,Fab Lab,1
+Kaunas,Hackerspace,1
+Kazan,Hackerspace,2
+Kağıthane,Hackerspace,1
+Keene,Hackerspace,2
 Keighley,Fab Lab,1
 Kempten,Fab Lab,1
 Khairpur,Fab Lab,1
 Kharkiv,Fab Lab,1
+Kharkiv,Hackerspace,1
 Khobar,Fab Lab,1
+Khukhmorit,Hackerspace,2
+Kiel,Hackerspace,1
 Kielce,Fab Lab,1
 Kiev,DIYBio Lab,1
 Kigali,Fab Lab,2
+Kigali,Hackerspace,1
+Kilchberg (ZH),Hackerspace,1
 Kimberley,Fab Lab,1
+Kingsport,Hackerspace,1
+Kingston,Hackerspace,2
 Kinston,Fab Lab,1
 Kirchfidisch,Fab Lab,1
+Kitchener,Hackerspace,2
+Kleinmachnow,Hackerspace,1
+Knokke-Heist,Hackerspace,1
+Knoxville,Hackerspace,1
+Koblenz,Hackerspace,1
 Kobuleti,Fab Lab,1
 Kochi,Fab Lab,2
+Kolding,Hackerspace,1
+Kolkata,Hackerspace,1
 Kollam,Fab Lab,1
 Kortrijk,Fab Lab,1
+Kortrijk,Hackerspace,2
 Kothamangalam,Fab Lab,2
+Kozani,Hackerspace,1
+Krakow,Hackerspace,1
 Kraków,Fab Lab,2
 Kuala Lumpur,Fab Lab,1
+Kuopio,Hackerspace,1
 Kutaisi,Fab Lab,2
 Kuttippuram,Fab Lab,1
 Kyiv,Fab Lab,2
+Kyiv,Hackerspace,2
+"Königslutter, gemeindefreies Gebiet",Hackerspace,1
 København,Fab Lab,2
 LEMPZOURS,Fab Lab,1
 La Jolla,DIYBio Lab,1
+La Orotava,Hackerspace,1
 La Plaine des Cafres,Fab Lab,1
 La Plata,Fab Lab,2
+La Plata,Hackerspace,1
 La Riviere,Fab Lab,1
 La Rochelle,Fab Lab,1
 La Verrière,Fab Lab,1
 LaSalle,Fab Lab,1
+Labu,Hackerspace,1
+Lafayette,Hackerspace,1
 Lagardelle-sur-Lèze,Fab Lab,1
 Lagos,Fab Lab,1
 Lakeland,Fab Lab,1
+Lalitpur,Hackerspace,1
+Lancaster,Hackerspace,3
+Langholm,Hackerspace,1
 Lannion,Fab Lab,1
+Lannion,Hackerspace,1
+Lansing,Hackerspace,2
+Lappeenranta,Hackerspace,1
+Laramie,Hackerspace,1
+Las Vegas,Hackerspace,1
 Laterza,Fab Lab,1
+Lathrop,Hackerspace,1
+Launceston,Hackerspace,1
 Lausanne,DIYBio Lab,1
 Lausanne,Fab Lab,1
+Lausanne,Hackerspace,1
 Lausanne/Renens,DIYBio Lab,1
+Laval,Hackerspace,1
+Lawrence,Hackerspace,1
+Lawrenceville,Hackerspace,1
+Laxmipur,Hackerspace,1
+Le Mans,Hackerspace,1
 Le Puy en Velay,Fab Lab,1
+League City,Hackerspace,1
 Lecce,Fab Lab,2
 Lecco,Fab Lab,1
+Leeds,Hackerspace,1
 Leeuwarden,Fab Lab,1
+Leeuwarden,Hackerspace,1
 Legazpi City,Fab Lab,1
+Leicester,Hackerspace,1
+Leiden,Hackerspace,1
+Leidschendam-Voorburg,Hackerspace,1
+Leipzig,Hackerspace,2
 Lelystad,Fab Lab,1
 Leoben,Fab Lab,1
 Les Ulis,Fab Lab,1
 Leuven,Fab Lab,1
+Lewisburg,Hackerspace,1
 Lexington,DIYBio Lab,1
 Liancourt,Fab Lab,1
 Liberec,Fab Lab,1
+Libin,Hackerspace,1
 Liege,Fab Lab,1
 Liepāja,Fab Lab,1
 Ligugé,Fab Lab,1
+Lille,Hackerspace,3
 Lima,DIYBio Lab,1
 Lima,Fab Lab,7
+Limassol,Hackerspace,1
 Limerick,Fab Lab,1
 Limoges,Fab Lab,1
+Lincoln,Hackerspace,1
+Lingen (Ems),Hackerspace,1
+Linz,Hackerspace,2
 Lisboa,Fab Lab,2
+Lisbon,Hackerspace,2
+Litochoro,Hackerspace,1
+Little Rock,Hackerspace,1
+Livermore,Hackerspace,1
 Liverpool,Fab Lab,1
+Liverpool,Hackerspace,1
+Liège,Hackerspace,1
 Ljubljana,Fab Lab,2
+Ljubljana,Hackerspace,3
+Lloydminster,Hackerspace,1
+Logan,Hackerspace,1
 Lomé,Fab Lab,1
+Lomé,Hackerspace,1
 London,DIYBio Lab,3
 London,Fab Lab,3
+London,Hackerspace,4
+Londrina,Hackerspace,1
+Longbao,Hackerspace,1
+Longde,Hackerspace,1
+Longmont,Hackerspace,1
+Lopnur,Hackerspace,3
 Loreto,Fab Lab,1
 Lormes,Fab Lab,1
 Los Alamos,DIYBio Lab,1
 Los Angeles,DIYBio Lab,1
+Los Angeles,Hackerspace,9
 Los Santos de Maimona,Fab Lab,1
+Louisville,Hackerspace,1
 Lourmarin,Fab Lab,2
+Loveland,Hackerspace,1
+Lowell,Hackerspace,1
 Lubartów County,Fab Lab,1
 Lublin,Fab Lab,1
+Lublin,Hackerspace,1
+Lucerne,Hackerspace,1
 Lurate Caccivio,Fab Lab,1
+Luxembourg,Hackerspace,2
+Lyon,Hackerspace,1
 Lérida,Fab Lab,1
+Lörrach,Hackerspace,1
+Lübbenau/Spreewald,Hackerspace,1
 Lübeck,Fab Lab,1
+Lübeck,Hackerspace,4
+Lüneburg,Hackerspace,1
 Lünen,Fab Lab,1
 MANDAL,Fab Lab,1
 Maartensdijk,Fab Lab,1
 Maastricht,Fab Lab,1
+Maastricht,Hackerspace,1
 Macao,Fab Lab,1
+Maceió,Hackerspace,1
 Macul,Fab Lab,1
 Maddaloni,Fab Lab,1
 Madison,DIYBio Lab,1
+Madison,Hackerspace,2
 Madrid,Fab Lab,5
+Madrid,Hackerspace,3
+Madurai,Hackerspace,1
+Mafra,Hackerspace,1
 Magdeburg,Fab Lab,1
+Magdeburg,Hackerspace,1
 Mahtomedi ,Fab Lab,1
+Makindye,Hackerspace,1
+Malakoff,Hackerspace,1
+Malmö,Hackerspace,3
 Manama,Fab Lab,2
+Manaus,Hackerspace,1
 Manchester,DIYBio Lab,1
 Manchester,Fab Lab,3
+Manchester,Hackerspace,1
+Mandi,Hackerspace,1
+Manhattan,Hackerspace,1
 Maniago,Fab Lab,1
 Manila,Fab Lab,1
+Mannheim,Hackerspace,2
 Manorhamilton,Fab Lab,1
 Manosque,Fab Lab,1
 Mansfield,Fab Lab,1
+Mar Mikhael,Hackerspace,1
 "Mar Roukoz, Dekwaneh",Fab Lab,1
 Mar del Plata,Fab Lab,1
+Marburg,Hackerspace,1
 Marghera,Fab Lab,1
 Maribor,DIYBio Lab,1
 Maribor,Fab Lab,1
+Marietta,Hackerspace,1
+Maringá,Hackerspace,1
+Markdorf,Hackerspace,1
 Marsa,Fab Lab,1
 Marsala,Fab Lab,1
 Marseille,Fab Lab,3
 Martinsville,Fab Lab,1
 Masterton,Fab Lab,1
 Mataró,Fab Lab,1
+Matera,Hackerspace,1
+Mazongshan,Hackerspace,1
 Mazères-sur-Salat,Fab Lab,1
+Maó,Hackerspace,1
+McNair,Hackerspace,1
+McPherson,Hackerspace,1
+Medan,Hackerspace,1
 Medellin,Fab Lab,1
 Medellín,Fab Lab,1
 Melbourne,DIYBio Lab,1
@@ -567,118 +1075,215 @@ Melbourne,Fab Lab,1
 Menomonie,Fab Lab,1
 Mercato San Severino,Fab Lab,1
 "Mercedes, Montes de Oca",Fab Lab,1
+Meriden,Hackerspace,1
 Merishausen,Fab Lab,1
 Messejana,Fab Lab,1
 Messina,Fab Lab,1
+Messina,Hackerspace,1
 Mestia,Fab Lab,1
 Metz,Fab Lab,2
+Metz,Hackerspace,1
 Mexico City,Fab Lab,1
+Mexico City,Hackerspace,2
 Miami,Fab Lab,1
+Miami,Hackerspace,1
+Michelstadt,Hackerspace,1
+Michigan City,Hackerspace,1
 Middelburg,Fab Lab,1
+Middlesbrough,Hackerspace,1
+Midvale,Hackerspace,1
+Mikkeli,Hackerspace,1
 Milan,Fab Lab,3
+Milan,Hackerspace,3
 Milano,Fab Lab,6
 Millau,Fab Lab,1
 Milwaukee,Fab Lab,1
+Milwaukee,Hackerspace,1
+Mimi,Hackerspace,1
 Minneapolis,DIYBio Lab,1
+Minneapolis,Hackerspace,1
 Minong,Fab Lab,1
+Minsk,Hackerspace,2
 Miraflores,Fab Lab,1
+Mislata,Hackerspace,1
 Modena,Fab Lab,1
+Mohe,Hackerspace,1
 Molenbeek-Saint-Jean,Fab Lab,1
+Molenbeek-Saint-Jean - Sint-Jans-Molenbeek,Hackerspace,2
 Monopoli,Fab Lab,1
 Mont-Saint-Aignan,Fab Lab,1
 Montelabbate,Fab Lab,1
+Monterrey,Hackerspace,2
 Montevideo,Fab Lab,1
+Monticello,Hackerspace,1
 Montpellier,Fab Lab,2
+Montpellier,Hackerspace,1
 Montreal,DIYBio Lab,1
 Montreal,Fab Lab,4
 Montreuil,Fab Lab,2
+Montreuil,Hackerspace,4
 Montreuil ,Fab Lab,1
 Montréal,Fab Lab,2
 Montréal-Est,Fab Lab,1
 Mookkannoor,Fab Lab,1
+Moray,Hackerspace,1
+Morgantown,Hackerspace,1
 Moscow,DIYBio Lab,1
 Moscow,Fab Lab,3
 Moskva,Fab Lab,1
 Moss,Fab Lab,1
 Mounds View,Fab Lab,1
+Mount Union,Hackerspace,1
 Mount Vernon,Fab Lab,1
+Moyun,Hackerspace,1
+Muharraq,Hackerspace,1
 Mulhouse,Fab Lab,1
+Mulhouse,Hackerspace,2
 Mumbai,DIYBio Lab,1
 Mumbai,Fab Lab,2
+Mumbai,Hackerspace,1
 Munich,DIYBio Lab,1
 Munich,Fab Lab,1
+Munich,Hackerspace,7
+Municipal Unit of Argyroypoli,Hackerspace,1
+Municipal Unit of Drapetsona,Hackerspace,1
 Munster,Fab Lab,1
+Murcia,Hackerspace,1
+Murphysboro,Hackerspace,1
 Muskogee,Fab Lab,1
+Mustamäe linnaosa,Hackerspace,1
+Muttenz,Hackerspace,2
 Málaga,Fab Lab,1
+Málaga,Hackerspace,1
 Mérida,Fab Lab,2
+Mérida,Hackerspace,1
 Mödling,Fab Lab,1
 München,Fab Lab,2
 Münster,Fab Lab,1
+Münster,Hackerspace,1
 Nablus,Fab Lab,1
 Nagano,Fab Lab,1
+Nagoya,Hackerspace,1
+Nagqu Prefecture,Hackerspace,5
 Nairobi,Fab Lab,1
 Namur,DIYBio Lab,1
 Namur,Fab Lab,1
+Namur,Hackerspace,1
 Nancy,Fab Lab,2
+Nancy,Hackerspace,1
 Nanjing,Fab Lab,1
+Nanterre,Hackerspace,1
 Nantes,Fab Lab,1
 Nantong,Fab Lab,1
+Nanzhao,Hackerspace,1
+Naperville,Hackerspace,1
 Napoli,Fab Lab,2
 Napoli ,Fab Lab,1
+Nashville,Hackerspace,1
+Natal,Hackerspace,1
 "Nedumangadu, Thiruvananthapuram",Fab Lab,1
 Neiva,Fab Lab,1
 Nelson,DIYBio Lab,1
+Nelson,Hackerspace,1
 Neskaupstadur,Fab Lab,1
+Neu-Ulm,Hackerspace,1
 Neuchâtel,Fab Lab,1
 Neuenstadt am Kocher,Fab Lab,1
+Neuenstadt am Kocher,Hackerspace,1
 Neunkirchen am Sand,Fab Lab,1
+Neuss,Hackerspace,1
+Neustrelitz,Hackerspace,1
 New Brunswick,Fab Lab,1
 New Delhi,Fab Lab,2
 New Haven,Fab Lab,1
+New Haven,Hackerspace,1
+New Mexico State University,Hackerspace,1
 New Orleans,Fab Lab,1
 New York,Fab Lab,1
 New York City,DIYBio Lab,2
+New York City,Hackerspace,9
+Newcastle upon Tyne,Hackerspace,1
 Newport,Fab Lab,1
+Nice,Hackerspace,1
+Nicosia,Hackerspace,2
 Nieuwkoop,Fab Lab,1
+Nijmegen,Hackerspace,1
 Niles,Fab Lab,1
+Nissewaard,Hackerspace,1
+Nizhny Novgorod,Hackerspace,1
+Noida,Hackerspace,1
 Norfolk,DIYBio Lab,1
 Norfolk,Fab Lab,1
+Norfolk,Hackerspace,1
 Norilsk,Fab Lab,1
+North Charleston,Hackerspace,1
 Northampton,Fab Lab,1
 Nottingham,DIYBio Lab,1
+Nottingham,Hackerspace,1
 Novosibirsk,Fab Lab,2
+Novosibirsk,Hackerspace,1
 Nuoro,Fab Lab,1
 Nuremberg,Fab Lab,1
+Nuremberg,Hackerspace,4
+Nyingchi City,Hackerspace,2
 Nyon,Fab Lab,1
+Nyêmo,Hackerspace,1
 Næstved,Fab Lab,1
 Néons-sur-Creuse,Fab Lab,1
 OULU,Fab Lab,1
+Oak Bay,Hackerspace,3
 Oakland,DIYBio Lab,1
 Oakland,Fab Lab,2
+Oakland,Hackerspace,6
 Oaxaca,Fab Lab,1
+Oberursel,Hackerspace,1
 Oberá,Fab Lab,1
 Obninsk,Fab Lab,1
 Odense,Fab Lab,1
+Odense,Hackerspace,1
 Odessa,Fab Lab,3
+Offenburg,Hackerspace,1
 Oita,Fab Lab,1
+Okayama,Hackerspace,1
 Oklahoma City,Fab Lab,1
+Oklahoma City,Hackerspace,1
 Olbia,Fab Lab,1
+Old Mosul,Hackerspace,1
+Oldenburg,Hackerspace,1
+Oldham,Hackerspace,1
+Olot,Hackerspace,1
+Oma,Hackerspace,2
 Omaha,Fab Lab,1
+Omnah,Hackerspace,1
+Ooststellingwerf,Hackerspace,1
+Orem,Hackerspace,1
 Orlando,DIYBio Lab,1
 Orlando,Fab Lab,1
+Orlando,Hackerspace,1
 Orléans,Fab Lab,1
+Orléans,Hackerspace,1
 Orsay,Fab Lab,1
 Orvieto,Fab Lab,1
+Osaka,Hackerspace,1
 Osaka-shi,Fab Lab,1
 Oshkosh,Fab Lab,1
+Osijek,Hackerspace,1
 Oslo,Fab Lab,1
+Oslo,Hackerspace,4
+Osnabrück,Hackerspace,2
+Ostermundigen,Hackerspace,1
 Ota-ku,Fab Lab,1
+Otog Front Banner,Hackerspace,1
 Ottawa,DIYBio Lab,1
+Ottawa,Hackerspace,1
 Ottignies-Louvain-la-Neuve,Fab Lab,1
 Ouagadougou,Fab Lab,2
 Oulu,Fab Lab,1
+Oulu,Hackerspace,1
 Overland Park,Fab Lab,2
+Oxford,Hackerspace,1
 PEREIRA,Fab Lab,1
+PJ,Hackerspace,1
 Pabal,Fab Lab,1
 Paderborn,Fab Lab,1
 Padova,Fab Lab,2
@@ -686,187 +1291,363 @@ Palermo,Fab Lab,2
 Palo Alto,Fab Lab,1
 Panama City,Fab Lab,1
 Paramaribo,Fab Lab,1
+Pardubice,Hackerspace,1
 Paris,DIYBio Lab,2
 Paris,Fab Lab,8
+Paris,Hackerspace,9
 Parma,Fab Lab,1
 Parthenay,Fab Lab,1
+Pasig,Hackerspace,1
 Pathamuttam,Fab Lab,1
+Pato Branco,Hackerspace,1
+Patras,Hackerspace,1
 Pau,Fab Lab,1
+Pau,Hackerspace,1
 Pavia,Fab Lab,1
+Pawtucket,Hackerspace,1
+Pedro Aguirre Cerda,Hackerspace,1
 Pembroke Dock,Fab Lab,1
 Penela,Fab Lab,1
 Penryn,Fab Lab,1
+Pensacola,Hackerspace,2
 Perpignan,Fab Lab,1
+Perpignan,Hackerspace,1
 Perth,DIYBio Lab,1
+Perth,Hackerspace,1
+Perth and Kinross,Hackerspace,2
 Perugia,Fab Lab,1
 Pescara,Fab Lab,2
+Petaling Jaya,Hackerspace,1
+Pfaffenhofen an der Ilm,Hackerspace,1
+Phalodi,Hackerspace,1
+Philadelphia,Hackerspace,2
 Phnom Penh,Fab Lab,1
+Phuket,Hackerspace,1
 Pickerington,Fab Lab,1
 Pinetop-Lakeside,Fab Lab,1
 Pisa,Fab Lab,1
+Pisa,Hackerspace,1
+Pishan/Guma,Hackerspace,1
 Pistoia,Fab Lab,1
 Pittsburgh,Fab Lab,2
+Pittsburgh,Hackerspace,2
+Plano Piloto,Hackerspace,1
 Plouzane,Fab Lab,1
 Plymouth,Fab Lab,1
 Podgorica,Fab Lab,1
 "Polokwane, Mankweng ",Fab Lab,1
+Pomona,Hackerspace,3
+Pori,Hackerspace,1
+Porsgrunn,Hackerspace,1
+Port Harcourt,Hackerspace,1
+Port Said,Hackerspace,1
 Portland,DIYBio Lab,1
+Portland,Hackerspace,3
 Porto,Fab Lab,1
 Porto Alegre,Fab Lab,5
+Porto Alegre,Hackerspace,2
 Portogruaro,Fab Lab,1
 Potchefstroom,Fab Lab,1
 Poti,Fab Lab,1
 Potsdam,Fab Lab,1
+Potsdam,Hackerspace,1
 Poznań,Fab Lab,1
+Poznań,Hackerspace,1
 Pozuelo,Fab Lab,1
 Prague,DIYBio Lab,1
+Prague,Hackerspace,4
+Pretoria,Hackerspace,1
+Pristina,Hackerspace,1
 Providence,Fab Lab,1
+Providence,Hackerspace,1
+Providencia,Hackerspace,1
+Provo,Hackerspace,1
 Puebla,Fab Lab,1
 Puertollano,Fab Lab,1
 Pula,Fab Lab,1
+Pula,Hackerspace,2
 Pune,Fab Lab,1
+Pune,Hackerspace,2
+Pátzcuaro,Hackerspace,1
+Písek,Hackerspace,1
+Qiliping,Hackerspace,3
+Qimantake,Hackerspace,1
+Qinhuangdao,Hackerspace,1
+Quebec City,Hackerspace,1
+Querétaro,Hackerspace,2
 Quetzaltenango,Fab Lab,1
 Quezon City,Fab Lab,1
 Quito,Fab Lab,5
 ROMA,Fab Lab,1
 Rabat,Fab Lab,1
 Raipur,Fab Lab,1
+Raleigh,Hackerspace,1
+Randburg,Hackerspace,2
+Randers,Hackerspace,1
+Rapperswil-Jona,Hackerspace,1
 Ravenna,Fab Lab,2
 Recife,Fab Lab,1
+Recklinghausen,Hackerspace,1
+Redwood City,Hackerspace,2
 Regensburg,Fab Lab,1
 Reggio Calabria,Fab Lab,1
 Reggio Emilia,Fab Lab,1
+Regina,Hackerspace,1
 Rende,Fab Lab,1
+Rende,Hackerspace,1
 Rendsburg,Fab Lab,1
 Renens,Fab Lab,1
+Renens,Hackerspace,1
 Rennes,Fab Lab,2
+Rennes,Hackerspace,1
 Rennes ,Fab Lab,1
 Research Triangle Park,DIYBio Lab,1
 Reykjavík,Fab Lab,1
 Reynoldsburg,Fab Lab,1
+Rgbg,Hackerspace,3
 Rheinfelden,Fab Lab,1
 Rice Lake,Fab Lab,1
+Richland,Hackerspace,1
 Richmond,DIYBio Lab,1
 Richmond,Fab Lab,1
+Richmond City,Hackerspace,1
+Richmond Hill,Hackerspace,1
 Rieti,Fab Lab,1
 Riga,Fab Lab,1
+Riga,Hackerspace,2
+Rijeka,Hackerspace,1
 Rimini,Fab Lab,1
 Rincon,Fab Lab,1
 Rio de Janeiro,Fab Lab,2
+Rio de Janeiro,Hackerspace,3
+Ripollet,Hackerspace,1
 Rishon LeTsiyon,Fab Lab,1
+Riverside,Hackerspace,3
 Rivière-du-Loup,Fab Lab,1
 Riyadh,Fab Lab,3
+Rochester,Hackerspace,1
+Rockford,Hackerspace,1
+Rockland,Hackerspace,1
 Rockledge,Fab Lab,1
 Rodez,Fab Lab,2
+Rolla,Hackerspace,1
 Roma,Fab Lab,3
+Rome,Hackerspace,4
 Romorantin-Lanthenay,Fab Lab,1
+Romorantin-Lanthenay,Hackerspace,1
+Rongcheng,Hackerspace,1
 Rosemère,Fab Lab,1
 Roskilde,Fab Lab,1
+Rostock,Hackerspace,2
 Rothenburg ob der Tauber,Fab Lab,1
 Rotterdam,Fab Lab,2
+Rotterdam,Hackerspace,3
+Rouen,Hackerspace,1
+Round Rock,Hackerspace,1
 Rovereto,Fab Lab,1
 Rovigo,Fab Lab,1
 Roxbury,Fab Lab,1
+Royal Bardiya National Park,Hackerspace,1
 Rozzano,Fab Lab,1
+Russellville,Hackerspace,1
 Rustavi,Fab Lab,1
 Rzeszów,Fab Lab,2
+SSA,Hackerspace,1
 ST GEORGES DE MONTAIGU,Fab Lab,1
+Saanich,Hackerspace,1
+Saarbrücken,Hackerspace,1
 Sacavém,Fab Lab,1
 Sacile,Fab Lab,1
 Sacramento,Fab Lab,1
+Sacramento,Hackerspace,2
 Saga,Fab Lab,1
+Saga,Hackerspace,1
 Saint-Avold,Fab Lab,1
 Saint-Cyr-de-Favières,Fab Lab,1
 Saint-Denis,Fab Lab,1
 Saint-Dié-des-Vosges,Fab Lab,1
+Saint-Germain-en-Laye,Hackerspace,1
 Saint-Jacques-de-la-Lande,Fab Lab,1
 Saint-Laurent-du-Maroni,Fab Lab,1
 Saint-Loup-sur-Semouse,Fab Lab,1
 Saint-Lô,Fab Lab,1
 Saint-Martin-d'Hères,Fab Lab,1
+Saint-Ouen,Hackerspace,1
 Saint-Étienne,Fab Lab,1
+Saint-Étienne,Hackerspace,1
+Sainte-Anne-de-Bellevue,Hackerspace,1
+Saintes,Hackerspace,1
+Saiudiyar,Hackerspace,1
+Sala,Hackerspace,1
 Salamanca,Fab Lab,1
 Salerno,Fab Lab,1
+Salt Lake City,Hackerspace,4
 Salzburg,Fab Lab,1
+Salzburg,Hackerspace,1
+Salzwedel,Hackerspace,1
+San Andres Bukid,Hackerspace,1
 "San Andrés del Rabanedo,León",Fab Lab,1
 San Cristóbal de La Laguna,Fab Lab,1
+San Cristóbal de La Laguna,Hackerspace,1
 San Diego,DIYBio Lab,2
 San Diego,Fab Lab,1
+San Diego,Hackerspace,3
 San Donà di Piave,Fab Lab,1
+San Donà di Piave,Hackerspace,1
 San Francisco,DIYBio Lab,1
 San Francisco,Fab Lab,1
+San Francisco,Hackerspace,7
 San Giovanni in Persiceto,Fab Lab,1
 San Ildefonso,Fab Lab,1
+San Isidro,Hackerspace,1
 San Jose,Fab Lab,1
+San José,Hackerspace,1
 San Juan,Fab Lab,1
+San Juan Antiguo,Hackerspace,1
 San Lorenzo,Fab Lab,2
+San Luis Obispo,Hackerspace,1
 San Martino Dall'argine,Fab Lab,1
 San Nicolás de los Garza,Fab Lab,1
+San Pedro Sula,Hackerspace,1
 San Pedro del Pinatar,Fab Lab,1
 San Ramón,Fab Lab,1
 San Salvador,Fab Lab,1
+San Salvador,Hackerspace,1
 San Salvador de Jujuy,Fab Lab,1
 San Salvatore,Fab Lab,2
 San Vicente del Raspeig,Fab Lab,1
+Sandila,Hackerspace,1
+Sandnes,Hackerspace,1
 Sant Cugat del Vallès,Fab Lab,1
+Santa Cruz,Hackerspace,1
 Santa Cruz de Tenerife,Fab Lab,1
 Santa Cruz de la Sierra,Fab Lab,1
 Santa Fe,Fab Lab,1
+Santa Fe,Hackerspace,1
+Santa Monica,Hackerspace,1
 Santa Rita do Sapucaí,Fab Lab,1
 Santander,Fab Lab,1
 Santarém,Fab Lab,2
 Santiago,Fab Lab,4
+Santiago,Hackerspace,1
 Santiago de Surco,Fab Lab,1
+Santo André,Hackerspace,1
+Santo Domingo,Hackerspace,1
 Santurtzi ( Antes Bermeo),Fab Lab,1
 Sao Paulo,DIYBio Lab,3
 Sarasota,Fab Lab,1
 Sarreguemines,Fab Lab,1
+Saskatoon,Hackerspace,2
 Sassari,Fab Lab,3
+Sassari,Hackerspace,1
 Sausalito,Fab Lab,1
 Sauðárkrókur,Fab Lab,1
+Savannah,Hackerspace,1
 Schwabach,Fab Lab,1
+Schwerin,Hackerspace,1
 Seattle,DIYBio Lab,2
+Seattle,Hackerspace,2
+Sebastopol,Hackerspace,1
+Seinäjoki,Hackerspace,1
+Senta Municipality,Hackerspace,1
 Seogwipo-si,Fab Lab,1
 Seoul,Fab Lab,1
+Seoul,Hackerspace,2
+Serdika,Hackerspace,1
 Settimo Torinese,Fab Lab,1
 Shaker Heights,Fab Lab,1
+Shaker Heights,Hackerspace,1
+Shangguan,Hackerspace,1
 Shanghai,Fab Lab,2
 Shanghai ,Fab Lab,1
+Shangyao,Hackerspace,1
+Sharjah,Hackerspace,1
+Shawan/Sawan,Hackerspace,1
+Sheffield,Hackerspace,1
 Shenzhen,Fab Lab,5
 Shenzhen ,Fab Lab,1
+Shenzhen City,Hackerspace,7
 Sherbrooke,Fab Lab,1
+Sherbrooke,Hackerspace,1
 Shibuya,Fab Lab,1
+Shibuya,Hackerspace,1
+Shinagawa,Hackerspace,1
+Shinjuku,Hackerspace,1
+Shizuoka,Hackerspace,1
 Siegen,Fab Lab,1
+Siegen,Hackerspace,1
 Siena,Fab Lab,1
+Siliyin/Xilinhaote,Hackerspace,1
+Silkeborg,Hackerspace,1
 Singapore,DIYBio Lab,1
 Singapore,Fab Lab,3
+Singapore,Hackerspace,1
 Sitges ,Fab Lab,1
+Skopje,Hackerspace,1
 Sofia,Fab Lab,1
+Sogamoso,Hackerspace,1
+Solingen,Hackerspace,1
 Somerville,Fab Lab,2
+Somerville,Hackerspace,3
 Sorocaba,Fab Lab,1
+Sorocaba,Hackerspace,1
 Soshanguve,Fab Lab,1
 Soustons,Fab Lab,1
+South Bend,Hackerspace,1
+South Dumdum,Hackerspace,1
 South Milwaukee,Fab Lab,1
+South Portland,Hackerspace,1
+Southampton,Hackerspace,1
 Southfield,Fab Lab,1
+Southwark,Hackerspace,1
 Spilamberto,Fab Lab,1
+Spokane,Hackerspace,1
+Spring Hill,Hackerspace,1
+Springfield,Hackerspace,1
 St-Lambert,Fab Lab,1
+St. Gallen,Hackerspace,1
+St. John's,Hackerspace,1
+St. Louis,Hackerspace,1
+St. Peters,Hackerspace,1
 St. Petersburg,Fab Lab,1
+Stade,Hackerspace,1
+Stamford,Hackerspace,1
+Staré Mesto,Hackerspace,1
+State College,Hackerspace,2
+Stavanger,Hackerspace,1
 Stockholm,DIYBio Lab,1
+Stockholm,Hackerspace,4
 Stoughton,Fab Lab,1
+Stowbtsy,Hackerspace,1
 Strasbourg,Fab Lab,2
+Strasbourg,Hackerspace,1
 Sturtevant,Fab Lab,1
+Stuttgart,Hackerspace,3
+Sukuta,Hackerspace,1
 Sulbiate,Fab Lab,1
 Sunderland,Fab Lab,1
 Sunnyvale,DIYBio Lab,1
 Surabaya,Fab Lab,1
+Surigao City,Hackerspace,1
+Surquillo,Hackerspace,1
 "Surquillo, Lima",Fab Lab,1
+Surrey,Hackerspace,1
 Suzhou ,Fab Lab,1
+Swansea,Hackerspace,1
+Swift Current,Hackerspace,1
+Swindon,Hackerspace,1
 Switzerland / Slovenia,DIYBio Lab,1
 Sydney,DIYBio Lab,1
+Sydney,Hackerspace,3
+Sysmä,Hackerspace,1
+Szeged,Hackerspace,1
 São Caetano do Sul,Fab Lab,1
+São Mamede de Infesta e Senhora da Hora,Hackerspace,1
 São Paulo,Fab Lab,6
+São Paulo,Hackerspace,2
 TRIESTE,Fab Lab,1
 Tacoma,Fab Lab,1
+Taganrog,Hackerspace,1
 Tagbilaran City,Fab Lab,1
 Taibon Agordino,Fab Lab,1
 Tainan City,Fab Lab,2
@@ -874,132 +1655,275 @@ Taipei,Fab Lab,2
 Taipei City,Fab Lab,2
 Takoradi,Fab Lab,1
 Talca,Fab Lab,1
+Tallinn,Hackerspace,3
 Tampa,Fab Lab,1
+Tampa,Hackerspace,3
 Tampere,Fab Lab,1
+Tampere,Hackerspace,1
+Tandridge,Hackerspace,1
 Tanger,Fab Lab,1
 Tangeri,Fab Lab,1
+Tangier,Hackerspace,1
 Taoyuan City,Fab Lab,1
+Tarfaya,Hackerspace,1
+Tarnovo,Hackerspace,1
+Tartu,Hackerspace,1
+Tartu linn,Hackerspace,1
+Taunton,Hackerspace,1
 Tbilisi,Fab Lab,11
 Tecumseh,Fab Lab,1
 Tehran,Fab Lab,3
+Tehran,Hackerspace,2
 Tel Aviv-Yafo,Fab Lab,1
+Tel Aviv-Yafo,Hackerspace,1
 Tel-Aviv,DIYBio Lab,2
 Tembisa,Fab Lab,1
+Teresina,Hackerspace,1
 Terni,Fab Lab,2
+Terni,Hackerspace,1
 Terrassa,Fab Lab,1
+Terrassa,Hackerspace,1
+Terre Haute,Hackerspace,1
+Thanet,Hackerspace,1
 The Hague,Fab Lab,1
+Thessaloniki,Hackerspace,1
 Thetford mines,Fab Lab,1
 Thionville,Fab Lab,1
 Thiruvananthapuram,Fab Lab,2
+Thiruvananthapuram,Hackerspace,1
+Thomaston,Hackerspace,1
 Three Lakes,Fab Lab,1
 Thrissur,Fab Lab,1
+Thunder Bay,Hackerspace,1
+Tibau do Sul,Hackerspace,1
 Tilburg,Fab Lab,1
+Tilburg,Hackerspace,1
+Timișoara,Hackerspace,3
+Tiranë,Hackerspace,1
+Titusville,Hackerspace,1
+Toksun/Tuokexun,Hackerspace,1
 Tokyo,DIYBio Lab,1
 Toledo,Fab Lab,1
+Toledo,Hackerspace,2
 Tolentino,Fab Lab,1
 Tomsk,Fab Lab,1
+Tomsk,Hackerspace,1
+Tongi,Hackerspace,1
+Toowoomba,Hackerspace,1
+Topeka,Hackerspace,1
 Torino,Fab Lab,2
 Toronto,DIYBio Lab,1
+Toronto,Hackerspace,4
+Torreón,Hackerspace,1
 Torrijos,Fab Lab,1
 Tottori,Fab Lab,1
 Toulon,Fab Lab,1
 Toulouse,Fab Lab,3
+Toulouse,Hackerspace,1
 Tours,Fab Lab,1
+Tours,Hackerspace,1
+Tower town,Hackerspace,5
+Town of Blackfalds,Hackerspace,1
+Township of Langley,Hackerspace,1
 Tradate,Fab Lab,1
 Trail,Fab Lab,1
+Traverse City,Hackerspace,1
 Tremblay-en-France,Fab Lab,1
 Trento,DIYBio Lab,1
 Trento,Fab Lab,1
+Tresnuraghes,Hackerspace,1
 Treviso,Fab Lab,1
+Trier,Hackerspace,1
+Triest,Hackerspace,1
 Trivandrum,Fab Lab,1
+Tromsø,Hackerspace,1
+Trondheim,Hackerspace,4
 Tsalenjikha,Fab Lab,1
+Tseel,Hackerspace,1
 Tucson,Fab Lab,1
+Tucson,Hackerspace,3
 Tulsa,Fab Lab,1
+Tulsa,Hackerspace,2
 Tunis,Fab Lab,2
 Turin,DIYBio Lab,1
 Turku,Fab Lab,1
+Turku,Hackerspace,1
+Turnhout,Hackerspace,1
 Témara,Fab Lab,1
 Tübingen,Fab Lab,1
+Tübingen,Hackerspace,1
+Uberlândia,Hackerspace,1
 Uggiano La Chiesa,Fab Lab,1
+Uijeongbu,Hackerspace,1
 Ulft,Fab Lab,1
+Ulm,Hackerspace,1
+Ulugqat/Wuqia,Hackerspace,5
+Ulundurpettai,Hackerspace,1
 Umeå,Fab Lab,1
+Umeå,Hackerspace,1
+University City,Hackerspace,1
 Upper St. Clair (Pittsburgh),Fab Lab,1
 Urbana,Fab Lab,1
 Urcuqui,Fab Lab,1
+Urtmorin,Hackerspace,1
+Ust-Omchug,Hackerspace,1
 Utica,Fab Lab,1
 Utrecht,Fab Lab,2
+Utrecht,Hackerspace,2
+Vaasa,Hackerspace,1
+Vadodara,Hackerspace,1
 Vailhauquès,Fab Lab,1
 Val-de-Reuil,Fab Lab,1
+Valbonne,Hackerspace,1
 Valcourt,Fab Lab,1
+Valence,Hackerspace,1
 Valencia,Fab Lab,1
+Valencia,Hackerspace,2
 Valgårdsvej 4-8,Fab Lab,1
 Valjevo,Fab Lab,1
 Valladolid,Fab Lab,1
 Vallauris,Fab Lab,1
 Valletta,Fab Lab,1
+Valls,Hackerspace,1
 Valsamoggia Loc. Monteveglio,Fab Lab,1
 Vancouver,DIYBio Lab,2
 Vancouver,Fab Lab,3
+Vancouver,Hackerspace,1
 Vannes,Fab Lab,1
 Vannes-le-Châtel,Fab Lab,1
 Varese,Fab Lab,1
+Varna,Hackerspace,1
 Vaulx-en-Velin,Fab Lab,1
+Vaux-le-Pénil,Hackerspace,1
 Vazhakulam,Fab Lab,1
 Vejle,Fab Lab,1
 Venezia,Fab Lab,1
+Venice,Hackerspace,1
+Venlo,Hackerspace,1
 Vestmannaeyjabær,Fab Lab,1
+Vicenza,Hackerspace,1
 Victoria,DIYBio Lab,1
+Vidalia,Hackerspace,1
 Vienna,Fab Lab,1
+Vienna,Hackerspace,2
 Vigo,Fab Lab,1
+Vila Velha,Hackerspace,1
+Vilanova,Hackerspace,1
 Villa María,Fab Lab,1
 Villach,Fab Lab,1
 Villaviciosa de Odón,Fab Lab,1
+Ville de Bruxelles - Stad Brussel,Hackerspace,1
 Villeneuve-d'Ascq,Fab Lab,1
 Villeurbanne,Fab Lab,1
+Villeurbanne,Hackerspace,2
+Villingen-Schwenningen,Hackerspace,1
 Vilnius,Fab Lab,1
+Vilnius,Hackerspace,4
 Viroflay,Fab Lab,1
+Viroflay,Hackerspace,1
+Visoko,Hackerspace,1
+Vista,Hackerspace,1
 Viterbo,Fab Lab,1
 Vitré,Fab Lab,1
 Vittorio Veneto,Fab Lab,1
+Vracar Municipality,Hackerspace,1
 Waco,Fab Lab,1
+Wageningen,Hackerspace,2
+Waitemata,Hackerspace,1
+Waldshut-Tiengen,Hackerspace,1
+Wall Township,Hackerspace,1
 Waltham,Fab Lab,1
 Waremme,Fab Lab,1
+Warendorf,Hackerspace,1
 Warner Robins,Fab Lab,1
 Warrington,Fab Lab,1
 Warsaw,DIYBio Lab,1
+Warsaw,Hackerspace,3
 Warszawa,Fab Lab,1
 Washington,Fab Lab,3
+Washington,Hackerspace,2
+Waterbury,Hackerspace,1
+Waterford,Hackerspace,1
 Waterloo,Fab Lab,1
 Watertown,Fab Lab,1
+Watertown,Hackerspace,2
 Wattens,Fab Lab,1
 Waunakee,Fab Lab,1
+Waveney,Hackerspace,1
+Wealden,Hackerspace,1
+Weihai,Hackerspace,5
+Weimar,Hackerspace,2
 Wellington,Fab Lab,2
+Wellington,Hackerspace,2
+Wendeng,Hackerspace,1
 West Bromwich,Fab Lab,1
 West Plains,Fab Lab,1
 Westerville,Fab Lab,1
+Wetzlar,Hackerspace,1
 White Bear Lake,Fab Lab,1
+White Plains,Hackerspace,1
+Whittier,Hackerspace,1
+Wichita,Hackerspace,1
 Wien,Fab Lab,1
+Wiesbaden,Hackerspace,1
+Wiesloch,Hackerspace,1
+Wigan,Hackerspace,1
 Wildau,Fab Lab,1
 Windhoek,Fab Lab,1
+Windhoek,Hackerspace,1
+Windsor,Hackerspace,1
+Winnipeg,Hackerspace,1
+Winston-Salem,Hackerspace,1
 Winter Park,Fab Lab,1
 Winterthur,Fab Lab,1
+Winterthur,Hackerspace,1
+Wismar,Hackerspace,1
+Witzenhausen,Hackerspace,1
 Worcester,Fab Lab,2
+Worcester,Hackerspace,2
+Wrocław,Hackerspace,1
 Wuppertal,Fab Lab,2
+Wuppertal,Hackerspace,1
+Wörgl,Hackerspace,1
+Würzburg,Hackerspace,3
 Xi'an,Fab Lab,1
+Xiaguan,Hackerspace,1
+Xialaxiu,Hackerspace,1
+Xianqian,Hackerspace,2
+Xibao,Hackerspace,1
+Xicheng District,Hackerspace,1
+Xuhui,Hackerspace,1
 YOKOHAMA,Fab Lab,1
+Yangon,Hackerspace,1
+Yantai,Hackerspace,1
 Yaoundé,Fab Lab,1
+Yekaterinburg,Hackerspace,1
 "Yeongtong-gu, Suwon-si",Fab Lab,1
+Yerevan,Hackerspace,1
+Yingjisha/Yengisar,Hackerspace,1
+Yining/Qulja,Hackerspace,1
 Yogyakarta City,Fab Lab,1
+Yuba City,Hackerspace,1
 Yuseong-gu,Fab Lab,1
+Yuseong-gu,Hackerspace,1
 Zacatecas ,Fab Lab,1
 Zagreb,Fab Lab,1
+Zagreb,Hackerspace,3
 Zaragoza,Fab Lab,2
+Zaragoza,Hackerspace,1
 Zarechny,Fab Lab,1
+Zhagannao'er,Hackerspace,1
+Zhaosu/Mongolküre,Hackerspace,1
+Zhongba County,Hackerspace,1
 Zielona Góra,Fab Lab,1
+Zittau,Hackerspace,1
 Zona Industriale Prato Sardo,Fab Lab,3
 Zugdidi,Fab Lab,2
 Zurich,Fab Lab,2
+Zurich,Hackerspace,3
+Zwickau,Hackerspace,1
 Zwijnaarde,Fab Lab,1
+Zwolle,Hackerspace,1
 bouillé loretz,Fab Lab,1
 brest,Fab Lab,1
 clamecy,Fab Lab,1
@@ -1014,9 +1938,13 @@ pavia,Fab Lab,1
 shanghai,Fab Lab,1
 tilburg,Fab Lab,1
 toulouse,Fab Lab,1
+Águeda e Borralha,Hackerspace,1
+Épinay-sur-Seine,Hackerspace,1
 Évora,Fab Lab,2
 Ísafjörður,Fab Lab,1
 Ørnes,Fab Lab,1
+Überlingen,Hackerspace,1
+Ürümqi,Hackerspace,1
 Łódź,Fab Lab,1
 Белгород,Fab Lab,1
 Вологда,Fab Lab,1
@@ -1025,6 +1953,7 @@ toulouse,Fab Lab,1
 Київ,Fab Lab,1
 Красноярск,Fab Lab,1
 Курск,Fab Lab,1
+Мангутское сельское поселение,Hackerspace,1
 Москва,Fab Lab,3
 Невинномысск,Fab Lab,1
 Ростов-на-Дону,Fab Lab,2
@@ -1033,15 +1962,44 @@ toulouse,Fab Lab,1
 Ставрополь/Stavropol',Fab Lab,1
 Ульяновск,Fab Lab,1
 Уфа,Fab Lab,3
+Централен,Hackerspace,1
+округ Московская застава,Hackerspace,1
 "العاشر من رمضان مجاوره 26, Th Of Ramadan City,",Fab Lab,1
 منقباد,Fab Lab,1
+نای بند,Hackerspace,1
+گیفان,Hackerspace,1
 つくば市,Fab Lab,1
 上海,Fab Lab,1
+乔端镇,Hackerspace,2
 仙台市,Fab Lab,1
+依盖尔其镇,Hackerspace,1
+关东街道,Hackerspace,1
+兵团十四团,Hackerspace,1
+冯庙镇,Hackerspace,1
+冷湖镇,Hackerspace,1
 台北市,Fab Lab,1
+喀拉苏乡قاراسۇ يىزىسى,Hackerspace,1
+塔吉克阿巴提镇تاجىكئاباد بازىرى,Hackerspace,1
+大庄镇,Hackerspace,2
+察尔汗工行委,Hackerspace,1
+托云乡,Hackerspace,1
+新林镇,Hackerspace,1
+曹集,Hackerspace,1
+朝阳区,Hackerspace,1
+朱疃乡,Hackerspace,1
+林海镇,Hackerspace,3
+柴旦镇,Hackerspace,1
 横浜市,Fab Lab,1
 武汉,Fab Lab,1
+汪疃镇,Hackerspace,1
+玉山镇,Hackerspace,1
+王店镇,Hackerspace,1
+磨盘张乡,Hackerspace,1
+米山镇,Hackerspace,1
+羊亭镇,Hackerspace,1
+英吾斯塘乡,Hackerspace,1
 西安市,Fab Lab,1
 贵阳,Fab Lab,1
+阿热勒乡,Hackerspace,1
 대구광역시,Fab Lab,1
 서울특별시,Fab Lab,3
