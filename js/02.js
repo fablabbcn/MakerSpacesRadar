@@ -18,10 +18,10 @@
             "orientation": "h"
         },
         margin: {
-            l: 0,
+            l: 240,
             r: 0,
             b: 0,
-            t: 20,
+            t: 40,
             pad: 4
         },
     };
@@ -39,9 +39,10 @@
 
             return {
                 type: 'bar',
+                orientation: 'h',
                 name: y,
-                x: d.map(r => r.country),
-                y: d.map(r => r.count)
+                y: d.map(r => r.country),
+                x: d.map(r => r.count)
             }
         })
 
