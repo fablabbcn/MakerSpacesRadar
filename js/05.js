@@ -24,7 +24,8 @@
         },
         geo: {
             showframe: false,
-            showcoastlines: false,
+            showcoastlines: true,
+            showcountries: true,
             projection: {
                 type: 'mercator'
             }
@@ -46,7 +47,7 @@
         }
         var data = [{
             type: 'choropleth',
-            locations: unpack(rows, 'code'),
+            locations: unpack(rows, 'country_code'),
             z: unpack(rows, 'count'),
             text: unpack(rows, 'country'),
             colorscale: [
